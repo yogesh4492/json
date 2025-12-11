@@ -1,0 +1,3450 @@
+{
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "2.0"
+  },
+  "value" : {
+    "topics" : [ "Delivery Service" ],
+    "speakers" : [ {
+      "speakerNativity" : "Native",
+      "nativitySource" : "SpeakerIdentified",
+      "gender" : "Female",
+      "languages" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "genderSource" : "SpeakerIdentified"
+    } ],
+    "conventionInfo" : {
+      "customAddendum" : "N/A",
+      "masterConventionName" : "awsTranscriptionGuidelines_en_US_3.0"
+    },
+    "domains" : [ "Talk Shows" ],
+    "primaryVariety" : "N/A",
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "5326"
+    },
+    "taskStatus" : {
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "otherLanguages" : [ "en_XX" ],
+    "primaryLanguage" : "hi_IN",
+    "segments" : [ {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "1001",
+      "start" : 7.880,
+      "end" : 8.880
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1002",
+      "start" : 14.610,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 20.070,
+      "transcriptionData" : {
+        "content" : "<lang:English>Am I live? Is anybody live?</lang:English> [cough] ये गले का बैंड बजा हुआ है आज।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "1003",
+      "start" : 24.100,
+      "end" : 24.980
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1004",
+      "start" : 34.900,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 47.580,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Aman. Hi Prasanna, Deepika, Chitra, Shivani.</lang:English> कैसे हैं आप सब लोग? [no-speech] <lang:English>Good evening Siya. Hi Dimple, Ravi, Randeep Singh, Savita.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1005",
+      "start" : 49.980,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 59.030,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Khushi. [no-speech] Princess Shafia Kamaal, hi how are you? [no-speech] Thank you Deepika.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1006",
+      "start" : 65.200,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 71.010,
+      "transcriptionData" : {
+        "content" : "<lang:English>I'm good. Happy Easter to all of you. Today is Easter Sunday. Haapy Easter.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1007",
+      "start" : 75.760,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 76.750,
+      "transcriptionData" : {
+        "content" : "<lang:English>So</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1008",
+      "start" : 81.540,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 91.588,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Prashant. [no-speech] Hi Aanchal, Vaishnavi, #उह Supriya, Deepika</lang:English> सबको मेरी तरफ से <lang:English>hi</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "1009",
+      "start" : 91.751,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 102.108,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes, it is a surprise. Actually I had to come [laugh] at eight o'clock</lang:English> लेकिन मुझे आपसे मिलने की थोड़ी सी जल्दी हो रही थी, तो मैं जल्दी आ गयी आज <lang:English>live</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10010",
+      "start" : 102.441,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 112.588,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>it's a surprise</lang:English>. मैं देखना चाहती थी कि कितने लोग <lang:English>live</lang:English> आते हो मेरे लिए। [laugh] तो आठ बजे का तो सब को पता ही होता है, <lang:English>but</lang:English> आज थोड़ा सा <lang:English>early</lang:English> आ गयी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10011",
+      "start" : 113.350,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 127.190,
+      "transcriptionData" : {
+        "content" : "<lang:English>Love you too. [no-speech] Hi Lavi, Hi Monika, [no-speech] Yes queries</lang:English> के <lang:English>answers</lang:English> तो दूँगी, एक दो छोटी छोटी बातें करनी चाहूंगी आपसे। [noise] <lang:English>Yes</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "10012",
+      "start" : 128.548,
+      "end" : 135.490
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10013",
+      "start" : 137.700,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 151.590,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes. [no-speech] Hi Suparna. [no-speech] First of all</lang:English> #अ: थोड़ी सी <lang:English>changes</lang:English> कर रही हूँ <lang:English>channel</lang:English> में, तो <lang:English>I thought I should tell you, #उह [no-speech] yes</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10014",
+      "start" : 151.840,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 165.300,
+      "transcriptionData" : {
+        "content" : "<lang:English>Daily comments</lang:English> के ऊपर कुछ <lang:English>give aways</lang:English> होंगे। मैंने आपसे दो तीन हफ्ते पहले आपसे इस बात का ज़िक्र किया था कि #अ: <lang:English>daily</lang:English> कुछ ना कुछ मैं <lang:English>give away</lang:English> रखूंगी, तो वो ही है आप के लिए <lang:English>good news</lang:English> है"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10015",
+      "start" : 165.480,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 175.464,
+      "transcriptionData" : {
+        "content" : "#अ: कि <lang:English>daily</lang:English> आप किस तरह से <lang:English>comment</lang:English> करते हो या <lang:English>share</lang:English> करते हो, मेरे <lang:English>videos</lang:English> को, उसके <lang:English>basis</lang:English> पर कुछ <lang:English>give aways</lang:English> होंगे, जो की मैं रखूंगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10016",
+      "start" : 175.821,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 188.372,
+      "transcriptionData" : {
+        "content" : "<lang:English>and one week</lang:English> के लिए #अ: मतलब <lang:English>every week I'll announce #उह super subscriber</lang:English> #अ: एक <lang:English>category</lang:English> है <lang:English>eve~ every week, every Sunday I'll announce a super subscriber</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10017",
+      "start" : 188.650,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 198.484,
+      "transcriptionData" : {
+        "content" : "तो #अ: <lang:English>depend</lang:English> करेगा आपके <lang:English>comments</lang:English> पर, आपके <lang:English>likes</lang:English> पर, आपके <lang:English>shares</lang:English> पर <lang:English>and this is the thing, which I wanted to share</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10018",
+      "start" : 198.600,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 209.972,
+      "transcriptionData" : {
+        "content" : "मेरे दिल में थी, मैं बहुत दिनों से <lang:English>try</lang:English> करने का सोच रही थी, सोचा अभी <lang:English>try</lang:English> करती हूँ। तो एक तो ये चीज़ है, तो भर भर के <lang:English>comments</lang:English> कीजियेगा, <lang:English>like</lang:English> कीजियेगा, <lang:English>share</lang:English> कीजियेगा <lang:English>videos</lang:English> को <lang:English>because</lang:English> आप जीतने वाले हो <lang:English>give away super subscriber</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10019",
+      "start" : 210.101,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 220.512,
+      "transcriptionData" : {
+        "content" : "<lang:English>category</lang:English> में मतलब हर एक हर <lang:English>week</lang:English> एक नया <lang:English>subscriber</lang:English> होगा, ऐसा नहीं है कि जो पहले जीत चुका है उसी को ही मिलेगा। हर <lang:English>week</lang:English> एक नया #अ: <lang:English>subscriber</lang:English> #अ: मिलेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10020",
+      "start" : 220.731,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 231.700,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> और एक चीज़ है वो ये है कि #अ: <lang:English>I'll give the shout out in my videos to my subscribers um</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10021",
+      "start" : 232.411,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 244.408,
+      "transcriptionData" : {
+        "content" : "आपके <lang:English>comments</lang:English> अगर मुझे पसंद आते हैं या आपके #अ: <lang:English>you know</lang:English> #अ: कोई भी आप <lang:English>video</lang:English> मुझे भेज सकते हो <lang:English>Facebook</lang:English> पर, <lang:English>Insta</lang:English> पर वो मुझे पसंद आता है तो मैं उसको अपने <lang:English>video</lang:English> के <lang:English>end</lang:English> में शामिल करूँगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10022",
+      "start" : 244.611,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 254.520,
+      "transcriptionData" : {
+        "content" : "तो #अ: आप मुझे <lang:English>Facebook</lang:English> पर भी <lang:English>follow</lang:English> कर सकते हो और <lang:English>Insta</lang:English> पर भी <lang:English>follow</lang:English> कर सकते हो और वो <lang:English>video</lang:English> मुझे #अ: <lang:English>send</lang:English> कर सकते हो या मेरे <lang:English>mail <initial>ID</initial></lang:English> पर भेज सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10023",
+      "start" : 254.521,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 265.570,
+      "transcriptionData" : {
+        "content" : "तो आपके <lang:English>videos</lang:English> या आपके <lang:English>messages</lang:English> अगर मुझे पसंद आते हैं तो मैं अपने <lang:English>video</lang:English> के <lang:English>last</lang:English> में उनको #अ: #अ: <lang:English>include</lang:English> ज़रूर करूंगी <lang:English>and #उह shout out</lang:English> दूँगी"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10024",
+      "start" : 265.571,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 280.540,
+      "transcriptionData" : {
+        "content" : "और अपने <lang:English>birthdays</lang:English>, आपके आपकी <lang:English>aaniversaries</lang:English> भी अगर कोई है तो मुझे बता देना, <lang:English>I'll give a shout out</lang:English>. तो <lang:English>this is the thing, which I wanted to share on my channel, so I thought I should tell you so you should be preapared for the next week, coming week</lang:English> से आप <lang:English>prepare</lang:English> रहें,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10025",
+      "start" : 280.660,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 291.360,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> #अ: ज़्यादा से ज़्यादा [breath] <lang:English>participate</lang:English> कीजिये, <lang:English>so that you can win #उह these #उह give aways or #उह freebies from myself</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10026",
+      "start" : 293.740,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 307.930,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi</lang:English> #अ: कैसी हो? <lang:English>Radhika I'm good, how are you Please</lang:English> यार <lang:English>like</lang:English> का <lang:English>button</lang:English> दबा दिया करो। मेरे को <lang:English>inspiration</lang:English> मिल जाती है कि ठीक है कुछ तो चाहने वाले है, कुछ तो लोग प्यार करते हैं। [laugh] [no-speech] तो <lang:English>please like</lang:English> का <lang:English>button</lang:English> दबा दिया करो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10027",
+      "start" : 309.060,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 319.300,
+      "transcriptionData" : {
+        "content" : "और एक छोटी सी <lang:English>request</lang:English> है आप लोगों से मतलब #अ: <lang:English>last three four days</lang:English> से ऐसा हो रहा है कि #अ: आप लोगों के लिए यार इतनी मेहनत करती हूँ मैं, आप लोगों के लिए इतनी <lang:English>research</lang:English> करती हूँ <lang:English>and</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10028",
+      "start" : 319.630,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 327.564,
+      "transcriptionData" : {
+        "content" : "[breath] कहाँ कहाँ से <lang:English>you know</lang:English> सीख के चीज़ें और आप लोगों के साथ <lang:English>share</lang:English> भी करती हूँ, तो एक छोटी सी <lang:English>request</lang:English> है, वो ये <lang:English>request</lang:English> है कि,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10029",
+      "start" : 327.961,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 341.104,
+      "transcriptionData" : {
+        "content" : "<lang:English>please watch the videos, which I which I make for you which I create for you</lang:English>, मतलब [noise] <lang:English>last three four days</lang:English> से तो ऐसा हो रहा है कि, <lang:English>so #उह so less #उह views I'm getting for the videos</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10030",
+      "start" : 341.360,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 355.060,
+      "transcriptionData" : {
+        "content" : "कि मुझे लग रहा है यार <lang:English>thirty-six lakhs</lang:English> लोग क्या सो रहे हैं? [laugh] <lang:English>No participation at all</lang:English>, तो <lang:English>I was very disappointed from last #उह three four days</lang:English> मतलब मुझे ऐसा लग रहा था की मैं करूँ क्या?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10031",
+      "start" : 355.360,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 363.060,
+      "transcriptionData" : {
+        "content" : "तो सोचा आप लोगों से <lang:English>share</lang:English> करूँ, <lang:English>please</lang:English> थोड़ा सा <lang:English>participate</lang:English> किया कीजिये क्योंकि मुझे थोड़ी सी आपके भी <lang:English>support</lang:English> की भी ज़रुरत है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10032",
+      "start" : 363.181,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 376.524,
+      "transcriptionData" : {
+        "content" : "आपके कहने पर #अ: <lang:English>you know</lang:English> मैं <lang:English>videos</lang:English> बनाती हूँ आपके आप मेरे से एक बार कोई कह देता हैं ना कि पूजा मेरे को इस चीज़ की <lang:English>remedies</lang:English> चाहिए, मैं ढूंढ़ ढांढ के <lang:English>research</lang:English> करके [breath] उसके ऊपर <lang:English>video</lang:English> बनाती हूँ लेकिन इतना सा #अ: <lang:English>support</lang:English> तो मुझे भी चाहिए।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10033",
+      "start" : 377.284,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 391.970,
+      "transcriptionData" : {
+        "content" : "<lang:English>You know</lang:English> इतना सा <lang:English>support</lang:English> तो मुझे भी चाहिए कि #अ: इतना हक भी है <lang:English>I think</lang:English> मेरा आपके ऊपर कि #अ: आपसे <lang:English>expect</lang:English> कर सकूँ कि आप मेरे <lang:English>videos</lang:English> को <lang:English>like</lang:English> करें, <lang:English>share</lang:English> करें, <lang:English>at least watch</lang:English> करें,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10034",
+      "start" : 392.090,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 404.770,
+      "transcriptionData" : {
+        "content" : "और सच में दिल टूटता है जब आप लोग <lang:English>you know</lang:English> आप लोगों के लिए बनाती हूँ तो आप लोग उसको नहीं देखते हो या <lang:English>like</lang:English> नहीं करते हो या <lang:English>share</lang:English> नहीं करते हो। तो <lang:English>last three four days were very bad</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10035",
+      "start" : 406.540,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 417.872,
+      "transcriptionData" : {
+        "content" : "तो [laugh] <lang:English>I thought</lang:English> कि आज आपसे दिल की बात करूँ और आपको ये बताऊँ कि <lang:English>yes a~ if I'm there [breath] #उह for you then you should be always there for me also like</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10036",
+      "start" : 418.103,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 425.052,
+      "transcriptionData" : {
+        "content" : "आप हैं तो मैं हूँ, मैं हूँ तो आप हैं। तो <lang:English>it's always you know</lang:English> ताली दो हाथों से बजती है, <lang:English>it's always give and take if</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10037",
+      "start" : 425.590,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 435.092,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह I do something for you, then I also expect</lang:English> कि थोड़ा बहुत तो यार मेरी <lang:English>family</lang:English> भी मेरे लिए कुछ करेगी <lang:English>because</lang:English> #अ: मैं आप लोगों को <lang:English>family</lang:English> मानती हूँ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10038",
+      "start" : 435.430,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 448.200,
+      "transcriptionData" : {
+        "content" : "<lang:English>and [no-speech] yes</lang:English>, [laugh] नहीं नहीं ऐसा कुछ नहीं है, बस इतना चाहती हूँ कि थोड़ा सा <lang:English>support</lang:English> अपना बना करके रखिये क्योंकि मुझे भी ज़रुरत है आपके <lang:English>support</lang:English> की।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10039",
+      "start" : 448.380,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 459.948,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thirty-six lakh subscribers</lang:English> होने के बावजूद <lang:English>last four days</lang:English> के अगर <lang:English>videos</lang:English> देखोगे, कुछ <lang:English>subscribers</lang:English> को छोड़ के जो की बहुत खास हैं बहुत अज़ीज़ हैं, हमेशा <lang:English>comments</lang:English> भी करते हैं, <lang:English>views</lang:English> भी देखते हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10040",
+      "start" : 460.381,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 474.100,
+      "transcriptionData" : {
+        "content" : "#अः मतलब <lang:English>fifteen thousand, thirteen thousand, sixteen thousand views</lang:English> मुझे ऐसा लगा यार <lang:English>what is this</lang:English> यार? <lang:English>I'm I'm spending whole day for making the videos for you guys and there is no support from your side</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10041",
+      "start" : 474.760,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 486.640,
+      "transcriptionData" : {
+        "content" : "तो थोड़ा सा मुझे <lang:English>support</lang:English> की ज़रुरत है और आज मैंने कभी कहा नहीं ऐसा लेकिन #अ: <lang:English>last three four days</lang:English> से मुझे ऐसा लगा कि यार [lipsmack] [no-speech] अभी मुश्किल हो रहा है, [laugh] <lang:English>survive</lang:English> भी करना मुश्किल हो रहा है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10042",
+      "start" : 486.920,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 500.220,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>please [cough] help me, support me, I want this [no-speech] and</lang:English> बाकी तो मैं हमेशा हूँ आपकी <lang:English>help</lang:English> के लिए, <lang:English>support</lang:English> के लिए <lang:English>and uh</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10043",
+      "start" : 500.330,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 514.292,
+      "transcriptionData" : {
+        "content" : "मेरी तरफ से पूरा <lang:English>support</lang:English> है तो मैं चाहती हूँ कि आपकी तरफ से भी थोड़ा <lang:English>support</lang:English> मुझको मिले [breath] और <lang:English>really</lang:English> एक बार एक बार <lang:English>please please</lang:English> अभी दिल खोलके <lang:English>please comment</lang:English> करिये, <lang:English>share</lang:English> कीजिये,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10044",
+      "start" : 514.430,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 523.220,
+      "transcriptionData" : {
+        "content" : "और <lang:English>videos</lang:English> देखिये क्योंकि मुझे आपके <lang:English>support</lang:English> की अब जरूरत है। मैंने कभी नहीं कहा कभी नहीं कहा, लेकिन <lang:English>now, I need your support</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10045",
+      "start" : 524.580,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 536.164,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you so much. So this my #उह [no-speech] request to you [no-speech]</lang:English> तो, [no-speech] <lang:English>what is this</lang:English>?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10046",
+      "start" : 549.320,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 557.980,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes, yeah. Please ask me now your queries, I'll definitely try my best [no-speech] to answer them.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10047",
+      "start" : 558.160,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 565.460,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yeah there is something something has happened, I don't know uh</lang:English> क्या हुआ है, <lang:English>color change</lang:English> हो गया है <lang:English>video</lang:English> का। <lang:English>Now, is it okay</lang:English>?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10048",
+      "start" : 569.350,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 582.410,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes.</lang:English> अभी आप पूछ सकते हो अपने <lang:English>questions</lang:English> क्योंकि मैंने तो दिल की बात कर ली है, <lang:English>I know</lang:English> आप समझ जाओगे बहुत जल्दी [breath] और थोड़ी सी मेरी <lang:English>help</lang:English> की ज़रुरत है, मुझे आपकी <lang:English>help</lang:English> की ज़रूरत है, तो <lang:English>please please</lang:English> कर दीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10049",
+      "start" : 582.530,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 597.270,
+      "transcriptionData" : {
+        "content" : "<lang:English>And #उह if you really really love me then please comment</lang:English> कि कि [laugh] कि आप <lang:English>seriously</lang:English> #अ: मेरी <lang:English>help</lang:English> करोगे। [no-speech] <lang:English>Yes. [no-speech] Hi Pradeep uh</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10050",
+      "start" : 599.340,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 606.630,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Dharmesh. <initial>VLCC</initial></lang:English> का <lang:English>facewash is good, you can try it. [no-speech] Hi Laveen</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10051",
+      "start" : 610.500,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 613.150,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you so much Rajni. Hi Rana.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10052",
+      "start" : 615.520,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 629.610,
+      "transcriptionData" : {
+        "content" : "मेरा <lang:English>birthday</lang:English> अभी बहुत दूर है यार <lang:English>fourteenth of August</lang:English> को आता है मेरा <lang:English>birthday. Hi Ishita, love you too. [no-speech] Thank you Richa. Thank you so much. [no-speech] Richa as you know</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10053",
+      "start" : 629.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 642.470,
+      "transcriptionData" : {
+        "content" : "बहुत ही अच्छी <lang:English>subscriber</lang:English> है मेरी, <lang:English>subscriber</lang:English> तो नहीं कहूँगी एक <lang:English>family member</lang:English> है। मतलब हमेशा मुझे <lang:English>support</lang:English> करती हैं और <lang:English>videos</lang:English> देखती हैं <lang:English>daily basis</lang:English> पर। <lang:English>Hi Daljeet [no-speech]. Thank you.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10054",
+      "start" : 644.280,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 647.670,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you</lang:English> प्रवीण जी। <lang:English>Hi Simran</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10055",
+      "start" : 653.670,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 655.040,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Bhaskar.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10056",
+      "start" : 657.330,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 669.800,
+      "transcriptionData" : {
+        "content" : "<lang:English>Skin</lang:English> के लिए बताइये क्या पूछना चाहते हैं आप <lang:English>skin</lang:English> के लिए। <lang:English>Skin dullness</lang:English> के ऊपर पूछना चाहते हैं तो <lang:English>every Friday, I show a video #उह facial video</lang:English> मैं <lang:English>share</lang:English> करती हूँ <lang:English>every Friday</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10057",
+      "start" : 669.801,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 680.160,
+      "transcriptionData" : {
+        "content" : "तो उसको आप <lang:English>follow</lang:English> कीजिये, आपको अच्छे नतीजे मिलेंगे <lang:English>every Friday you can do facial</lang:English> और #अ: <lang:English>skin</lang:English> आपकी हमेशा #अ: <lang:English>glow</lang:English> करती रहेगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10058",
+      "start" : 684.860,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 695.850,
+      "transcriptionData" : {
+        "content" : "<lang:English>Dull</lang:English> और <lang:English>tan</lang:English> है तो अभी मैंने ना <lang:English>Friday</lang:English> को #अ: एक <lang:English>skin brightening facial</lang:English> आपके साथ <lang:English>share</lang:English> किया था, <lang:English>video upload</lang:English> किया था उसका, तो वो <lang:English>video</lang:English> आप देख सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10059",
+      "start" : 702.600,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 712.388,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Vanita. [no-speech] I've not tried Indu~ Indulekha shampoo, so I can't tell you about that. [no-speech] Thank you Kanchan.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10060",
+      "start" : 713.891,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 728.724,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Faiza. Wrinkles</lang:English> के लिए ना मैं #अ: कल का <lang:English>video</lang:English> आप ज़रूर देखिएगा। कल <lang:English>tanaka massage</lang:English> आपके साथ <lang:English>share</lang:English> करने वाली हूँ जो कि <lang:English>thirty to fifty years</lang:English> की <lang:English>ladies</lang:English> को ज़रूर ज़रूर [breath] <lang:English>daily basis</lang:English> पर <lang:English>daily basis</lang:English> पर करनी चाहिए,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10061",
+      "start" : 728.771,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 742.220,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>and it will improve the elasticity of your skin and as well as it will #उह reduce open pores, acne scars</lang:English> वो सब आपकी <lang:English>problems</lang:English> दूर होने वाली है, <lang:English>under eye dark circles</lang:English> चले जायेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10062",
+      "start" : 742.221,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 756.270,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Tanaka massage in fact</lang:English> #अ: मैं भी <lang:English>try</lang:English> कर रही हूँ <lang:English>last one week</lang:English> से <lang:English>and I've got the results [breath] and I'm very very happy f~ #उह because of that</lang:English> क्योंकि मेरे #अ: यहाँ से <lang:English>skin loose</lang:English> हो रही थी अभी कुछ दिन से, तो वो <lang:English>tight</lang:English> होने लग गयी है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10063",
+      "start" : 756.370,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 762.932,
+      "transcriptionData" : {
+        "content" : "तो बहुत ही अच्छी है, कल <lang:English>video</lang:English> मैं आपके साथ <lang:English>share</lang:English> ज़रूर करूँगी उसका, तो उस <lang:English>video</lang:English> को देखिएगा और उसको <lang:English>follow</lang:English> कीजियेगा कुछ दिन।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10064",
+      "start" : 763.141,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 777.752,
+      "transcriptionData" : {
+        "content" : "[breath] #अ: जहाँ तक <lang:English>steps</lang:English> की बात है उसके तो दो तीन दिन <lang:English>daily basis</lang:English> पर अगर आप <lang:English>videos</lang:English> देख के <lang:English>follow</lang:English> करोगे आपको याद हो जायेंगे <lang:English>steps, so</lang:English> ऐसा कुछ नहीं है कि आप बार बार आप #अ: भूल जाओगे, [breath] दो तीन दिन लगातार देखोगे याद हो जायेगा, दो तीन दिन करो उसको साथ में,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10065",
+      "start" : 777.951,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 788.840,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> #अ: बहुत बहुत <lang:English>effective</lang:English> है वो <lang:English>massage</lang:English> [breath] #अ: आपकी <lang:English>skin</lang:English> को <lang:English>you know forty</lang:English> की <lang:English>fifty</lang:English> की <lang:English>age</lang:English> में भी आपको <lang:English>thirty</lang:English> या <lang:English>twenty-five</lang:English> का <lang:English>look</lang:English> देगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10066",
+      "start" : 789.031,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 801.028,
+      "transcriptionData" : {
+        "content" : "<lang:English>and I 've recently started it and I'm finding it good, so I thought I'll share it with you. So</lang:English> #अ: उस <lang:English>massage</lang:English> को <lang:English>follow</lang:English> कीजियेगा, कल का <lang:English>video</lang:English> देखिएगा, उसमे मैं वो <lang:English>share</lang:English> करूंगी। [no-speech] ठीक है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10067",
+      "start" : 802.208,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 810.260,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Tejbeer. Best shampoo for hairs</lang:English> #अ: मैंने बाहर सारे <lang:English>shampoos already #उह share</lang:English> किये हुए हैं अपने <lang:English>videos</lang:English> पर।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10068",
+      "start" : 810.600,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 822.724,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>Qykkare</lang:English> का है <lang:English>herbal shampoo</lang:English> और #अ: इसका है <initial>VLCC</initial> का <lang:English>shampoo</lang:English> है <lang:English>coconut and hibiscus</lang:English> वाला, वो आप <lang:English>try</lang:English> कर सकते हो, ठीक है?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10069",
+      "start" : 823.211,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 830.964,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Insta</lang:English> की <lang:English><initial>ID</initial></lang:English> है <lang:English>pooja under score pooja luthra, Insta</lang:English> की <lang:English><initial>ID</initial></lang:English> अगर आप पूछ रहे हो <lang:English>pooja under score pooja luthra</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10070",
+      "start" : 832.559,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 835.668,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha, thank you so so much. Love you Prerna.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10071",
+      "start" : 840.430,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 842.260,
+      "transcriptionData" : {
+        "content" : "[laugh] <lang:English>Thank you.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10072",
+      "start" : 844.170,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 857.244,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hair length</lang:English> बढ़ाने के लिए #अ: मैंने ना उसका #अ: <lang:English>corriander</lang:English> वाला धनिये की <lang:English>remedy share</lang:English> की हुई है, धनिया~ धनिये की <lang:English>remedy</lang:English> प्याज के साथ, वो <lang:English>share</lang:English> की हुई है, तो उसको आप <lang:English>follow</lang:English> कर लीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10073",
+      "start" : 857.324,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 864.620,
+      "transcriptionData" : {
+        "content" : "#अ: मेरे ख्याल से दो हफ्ते हो गए उसको <lang:English>share</lang:English> किये हुए, तो आप <lang:English>channel</lang:English> पर जाओगे तो <lang:English>scroll down</lang:English> करोगे <lang:English>videos</lang:English> को तो आपको दिख जायेगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10074",
+      "start" : 869.190,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 881.000,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Sushmita Mohanty. [no-speech] Yes. [no-speech] How to remove hair from face? You can remove hair from face with the help of</lang:English> #अ: फिटकरी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10075",
+      "start" : 881.001,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 891.720,
+      "transcriptionData" : {
+        "content" : "<lang:English>If you want permanent reduction in your hair, facial hair</lang:English> में <lang:English>permanently</lang:English> [breath] आप उनको कम करना चाहते हो तो आप #अ: फिटकरी <lang:English>rub</lang:English> करें अपने #अ:,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10076",
+      "start" : 892.460,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 905.470,
+      "transcriptionData" : {
+        "content" : "<lang:English>face</lang:English> के <lang:English>hair remove</lang:English> करने के बाद अगर आप <lang:English>threading</lang:English> करते हो या <lang:English>waxing</lang:English> करते हो, उसके बाद आप फिटकरी <lang:English>rub</lang:English> करें #अ: फिटकरी को थोड़ा भीगा लें पानी में [breath] और फिटकरी <lang:English>rub</lang:English> करें <lang:English>daily basis</lang:English> पर जहाँ जहाँ आपके <lang:English>facial hair</lang:English> हैं चाहे वो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10077",
+      "start" : 905.471,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 912.468,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह upper lips</lang:English> हैं, <lang:English>under lips</lang:English> हैं या <lang:English>chin</lang:English> पे हैं, तो धीरे धीरे धीरे धीरे उसकी <lang:English>growth</lang:English> जो है वो कम होती चली जाएगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10078",
+      "start" : 913.108,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 922.020,
+      "transcriptionData" : {
+        "content" : "आपको <lang:English>voice</lang:English> आ रही है एक <lang:English>comment</lang:English> मैंने अभी पढ़ा की <lang:English>can't hea~ can't hear, voice</lang:English> आ रही है आपको मेरी? <lang:English>Please reply, please comment</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10079",
+      "start" : 931.560,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 941.204,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Sagarika, love you too. [breath] Split ends</lang:English> के लिए तो बहुत ही <lang:English>simple remedy</lang:English> है, आप क्या करो #अ: <lang:English>vitamin E oil capsules</lang:English> आपको मिल जाते हैं उसके,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "10080",
+      "start" : 941.471,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 952.800,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> उसमे आपने मिला लेना है <lang:English>castor oil</lang:English> थोड़ा सा [breath] और इन दोनों चीज़ों को गरम कर लेना है थोड़ा सा और वो #अ: अपने #अ: <lang:English>split ends</lang:English> में आपको लगाना है <lang:English>solution</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2001",
+      "start" : 953.060,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 960.560,
+      "transcriptionData" : {
+        "content" : "रात को लगाकर के सोइये, सुबह <lang:English>wash</lang:English> कर लीजिये, दो तीन दिन ऐसा करोगे, तो आपके <lang:English>splite ends</lang:English> जो हैं वो काम होते चले जायेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2002",
+      "start" : 964.350,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 973.152,
+      "transcriptionData" : {
+        "content" : "यार <lang:English>hair fall</lang:English> के लिए ना बहुत सारी <lang:English>remedy</lang:English> है #अः मेरे <lang:English>channel</lang:English> पर तो आप उनको <lang:English>follow</lang:English> कीजियेगा, मैंने बहुत सारे <lang:English>solutions</lang:English> बताये हुए हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2003",
+      "start" : 973.372,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 982.750,
+      "transcriptionData" : {
+        "content" : "तो आप <lang:English>follow</lang:English> कर सकते हो उन <lang:English>remedies</lang:English> को। अगर आवाज़ नहीं आ रही है, तो मैं दोबारा <lang:English>disconnect</lang:English> करके <lang:English>on</lang:English> करती हूँ। [breath] <lang:English>Please tell me, comment</lang:English> करके बताओ आवाज़ आ रही है कि नहीं आ रही है?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2004",
+      "start" : 986.440,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1000.890,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha.</lang:English> यार <lang:English>share</lang:English> भी कर दिया करो। [laugh] [breath] आज तो <lang:English>really really</lang:English> मेरा <lang:English>mood</lang:English> भी नहीं था #अ: <lang:English>you knowh</lang:English> #अ: कोई भी <lang:English>video upload</lang:English> करने का। <lang:English>I was thinking</lang:English> कि मैं क्या करूँ [laugh], आप लोगों का साथ नहीं मिल रहा है तो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2005",
+      "start" : 1002.100,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1016.200,
+      "transcriptionData" : {
+        "content" : "<lang:English>Okay</lang:English> आ रही है। [no-speech] ठीक है ठीक है पूनम। <lang:English>Thank you. Thank you Julie. [no-speech] Okay #उह somebody was telling</lang:English> कि नहीं आ रही है, <lang:English>so that's why I was asking</lang:English> कि मैं <lang:English>dis~ dis~ disconnect</lang:English> करके दोबारा <lang:English>on</lang:English> करती हूँ अगर नहीं आ रही है तो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2006",
+      "start" : 1016.740,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1027.908,
+      "transcriptionData" : {
+        "content" : "<lang:English>Okay Manasi. [no-speech] Thin hair</lang:English> कि उपाय करना है। <lang:English>Thin hair</lang:English> के लिए ना <lang:English>best remedy</lang:English> है आँवला।आँवले को आप पानी में भीगो लो रात भर,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2007",
+      "start" : 1027.951,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1038.428,
+      "transcriptionData" : {
+        "content" : "और सुबह उसका <lang:English>paste</lang:English> जो है ना वो अपने बालों में लगाओ। उसके बाद आधे घंटे के बाद आप <lang:English>shampoo</lang:English> कर लो। आपके बाल बहुत जल्दी <lang:English>thick</lang:English> होने लगेंगे और काले भी रहेंगे लम्बे <lang:English>time</lang:English> तक।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2008",
+      "start" : 1038.701,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1048.532,
+      "transcriptionData" : {
+        "content" : "इसके अलावा आँवले को अपनी <lang:English>diet</lang:English> में भी शामिल करो #अ: आँवले का मुरब्बा आप खा सकते हो या आँवले का चूर्ण ले सकते हो, जो भी आपको <lang:English>suit</lang:English> करे वो ले सकते हो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "2009",
+      "start" : 1048.721,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1060.932,
+      "transcriptionData" : {
+        "content" : "और एक चीज़ होती है <lang:English>flax seed</lang:English> यानि की अलसी के बीज, वो भी आप ले सकते हो। <lang:English>Dry or green anyb~ anything Poornima.</lang:English> आप आँवले को <lang:English>dry form</lang:English> में भी अभी तो #अ: <lang:English>green</lang:English> नहीं मिलेगा <lang:English>because</lang:English> गर्मियाँ आ गयी हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20010",
+      "start" : 1061.031,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1069.860,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>dry form</lang:English> में ही मिलेगा, या तो मुरब्बे के <lang:English>form</lang:English> में ले लो या <lang:English>juice</lang:English> के form में ले लो। नहीं मैं #अ: <lang:English>all I'm all well, I'm just disappointed</lang:English>. [laugh]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20011",
+      "start" : 1070.071,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1083.792,
+      "transcriptionData" : {
+        "content" : "थोड़ी सी <lang:English>disappointed</lang:English> थी <lang:English>that's why</lang:English> वो मेरे <lang:English>face</lang:English> पर दिख जाता है जब मेरे साथ कुछ कुछ भी [laugh] अच्छा या बुरा होता है, खुश होती हूँ तो <lang:English>face</lang:English> पर ख़ुशी <lang:English>reflect</lang:English> होती है [breath] और जब थोड़ी सी <lang:English>disappointed</lang:English> होती हूँ थोड़ी सी <lang:English>dejected</lang:English> होती हूँ तो वो <lang:English>face</lang:English> पर दिख जाता है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20012",
+      "start" : 1084.080,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1095.364,
+      "transcriptionData" : {
+        "content" : "<lang:English>So, [no-speech] thank you Kaul</lang:English> आपने <lang:English>tomato facial</lang:English> किया, आपको <lang:English>results</lang:English> अच्छे मिले। <lang:English>Thank you for sharing</lang:English> यार, <lang:English>these kind of comments really really make my day</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20013",
+      "start" : 1095.460,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1103.464,
+      "transcriptionData" : {
+        "content" : "<lang:English>Because</lang:English> आप लोगों की आप लोग ही मेरी <lang:English>inspiration</lang:English> हो और [no-speech] [breath] कुछ लोग नहीं समझते ये बात तो इसलिए।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20014",
+      "start" : 1104.280,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1116.684,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह [breath] sometimes</lang:English> मुझे [lipsmack] कहनी पड़ती हैं कुछ बातें जो नहीं कहनी चाहिए। <lang:English>Yes. [no-speech] Hi Mamta. How are you</lang:English>?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20015",
+      "start" : 1121.480,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1127.252,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Face</lang:English> पर <lang:English>wound</lang:English> के <lang:English>marks</lang:English> है ना <lang:English>dear</lang:English> तो <lang:English>virgin coconut oil uh</lang:English> अगर आपको मिल जाये,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20016",
+      "start" : 1127.821,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1136.104,
+      "transcriptionData" : {
+        "content" : "तो कच्ची घानी का नारियल तेल वो मिल जाये, उसके अन्दर थोड़ी सी कपूर <lang:English>mix</lang:English> करके वो आप लगा लीजिये, किसी भी तरीके का <lang:English>wound</lang:English> है चाहे वो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20017",
+      "start" : 1136.181,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1148.400,
+      "transcriptionData" : {
+        "content" : "<lang:English>chicken pox</lang:English> का निशान है, चाहे वो <lang:English>acne</lang:English> का <lang:English>scar</lang:English> है, या <lang:English>wound</lang:English> का निशान है, वो <lang:English>regularly</lang:English> आप लगाते रहेंगे ना तो एक दो महीने तीन महीने तो धीरे धीरे धीरे धीरे वो आपका जो <lang:English>scar</lang:English> है वो ख़तम हो जायेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20018",
+      "start" : 1148.500,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1156.148,
+      "transcriptionData" : {
+        "content" : "बहुत अच्छी <lang:English>remedy</lang:English> है ये, [breath] आप इसको <lang:English>follow</lang:English> कर सकते हैं। [no-speech] <lang:English>Thank you Sarika, thank you so much</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20019",
+      "start" : 1162.600,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1170.364,
+      "transcriptionData" : {
+        "content" : "<lang:English>Summer serum</lang:English> मेरी <lang:English>list</lang:English> में है, मैं इसी <lang:English>week share</lang:English> करूँगी ये <lang:English>video, summer serum</lang:English> ज़रूर बताऊंगी आपको।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20020",
+      "start" : 1172.200,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1186.680,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Abha. [no-speech] Good Evening. [no-speech] I'm good</lang:English> यार, #अ: कुछ नहीं हुआ है मुझे। [no-speech] <lang:English>Hi Sheeba. [no-speech] Hi Princey.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20021",
+      "start" : 1191.770,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1205.220,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes. Hi Reena. [no-speech] [breath] Dark circles</lang:English> क~ के लिए कल का <lang:English>video</lang:English> देखना। मतलब <lang:English>hundred percent</lang:English> उससे आपके <lang:English>dark circles</lang:English> भी <lang:English>cure</lang:English> होंगे, <lang:English>puffy eyes</lang:English> भी <lang:English>cure</lang:English> होंगी और अगर <lang:English>wrinkles</lang:English> आ रहे हैं, वो भी <lang:English>cure</lang:English> होंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20022",
+      "start" : 1205.300,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1216.100,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Dark circles</lang:English> के लिए कल का <lang:English>video</lang:English> ज़रूर देखना। <lang:English>Tanaka massage</lang:English> मैं <lang:English>share</lang:English> कर रही हूँ आपसे। [breath] जो लोग <lang:English>thirty to fifty years</lang:English> की <lang:English>age</lang:English> में हैं या <lang:English>twenty-five</lang:English> भी <lang:English>cross</lang:English> कर चुके हैं, उनको कल का <lang:English>video</lang:English> ज़रूर देखना चाहिए।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20023",
+      "start" : 1216.200,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1223.484,
+      "transcriptionData" : {
+        "content" : "आपके बड़े काम का होगा, आपको बहुत सारी <lang:English>tips and tricks</lang:English> मिलेंगी कि आप लम्बे समय तक <lang:English>beautiful</lang:English> कै~ कैसे रह सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20024",
+      "start" : 1223.641,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1233.864,
+      "transcriptionData" : {
+        "content" : "लम्बे समय तक अपने <lang:English>#उह facial structure</lang:English> को किस तरह से <lang:English>maintain</lang:English> कर सकते हो ताकि वो <lang:English>sag</lang:English> न करें, ताकि वो <lang:English>droop</lang:English> न करे। <lang:English>Sometimes,</lang:English> क्या होता है <lang:English>thirty</lang:English> की <lang:English>age cross</lang:English> करने के बाद,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20025",
+      "start" : 1234.041,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1243.164,
+      "transcriptionData" : {
+        "content" : "ये <lang:English>area</lang:English> जो है वो नीचे <lang:English>#उह [no-speech] fade</lang:English> करने लगता है, तो वो चीज़ आपकी <lang:English>#उह problems</lang:English> का <lang:English>solution</lang:English> आपको मिल जायेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20026",
+      "start" : 1243.251,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1257.910,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Teenagers</lang:English> पे <lang:English>video</lang:English> बनाया था <lang:English>dear</lang:English> मैंने, कल ही <lang:English>video</lang:English> बनाया था और पूरी जान लगा दी थी उस <lang:English>video</lang:English> में, हर चीज़ को समझाया था बहुत ही [breath] अच्छे तरीके से जितना मैं कर सकती थी, लेकिन आप लोगों का शायद साथ नहीं मिला [laugh] और वो किसी ने देखा भी नहीं <lang:English>video</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20027",
+      "start" : 1258.230,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1269.210,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>#उह if you have subscribed my channel, then please go and watch that #उह video, really</lang:English> आपके बहुत काम के हैं <lang:English>videos [breath] and</lang:English> आपको <lang:English>help</lang:English> ज़रूर मिलेगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20028",
+      "start" : 1271.960,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1277.400,
+      "transcriptionData" : {
+        "content" : "<lang:English>Pigmentation</lang:English> के लिए <lang:English>night cream. Okay I'll try to make it as soon as possible.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20029",
+      "start" : 1282.430,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1287.260,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Yoyo Jatt. Thank you so much. Hi Laavi, I'm good. How are you?</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20030",
+      "start" : 1291.370,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1292.612,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20031",
+      "start" : 1293.470,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1308.004,
+      "transcriptionData" : {
+        "content" : "<lang:English>Pond's</lang:English> की <lang:English><initial>BB</initial> cream</lang:English> आप कर सकते हो <lang:English>summers</lang:English> के लिए तो, <lang:English>I also use that</lang:English> मतलब #अ: जो भी <lang:English>videos</lang:English> #अ: मैं #अ: जब <lang:English>make up</lang:English> करती हूँ तो <lang:English><initial>BB</initial> cream Pond's</lang:English> की ही <lang:English>use</lang:English> करती हूँ <lang:English>and its~ its really good</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20032",
+      "start" : 1308.341,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1318.860,
+      "transcriptionData" : {
+        "content" : "और <lang:English>light</lang:English> सा <lang:English>tint</lang:English> देती है आपको लेकिन <lang:English>natural</lang:English> लगता है, लेकिन #अ: मतलब बहुत ज़्यादा पैसा भी खर्च नहीं होता है और अच्छी है, आप #अ: कर सकते हो उसको <lang:English>use</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20033",
+      "start" : 1318.940,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1330.524,
+      "transcriptionData" : {
+        "content" : "[breath] अच्छा मैंने शुरुआत में कुछ <lang:English>announcements</lang:English> की थी जो लोग अभी <lang:English>join</lang:English> किये हैं, <lang:English>please</lang:English> यार <lang:English>like</lang:English> कर दो। [laugh] <lang:English>like</lang:English> भी कर दो। जो लोग <lang:English>join</lang:English> किये हैं उनको मैं दोबारा बता देती हूँ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20034",
+      "start" : 1330.944,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1343.520,
+      "transcriptionData" : {
+        "content" : "#अ: एक तो बात हुई थी <lang:English>give aways</lang:English> की कि <lang:English>every week I'll be #उह giving #उह give away to my super subscriber #उह super family member you can say</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20035",
+      "start" : 1343.610,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1352.324,
+      "transcriptionData" : {
+        "content" : "और वो <lang:English>family member</lang:English> कैसे <lang:English>super</lang:English> होगा उसके लिए छोटी छोटी चीज़ें हैं, <lang:English>like</lang:English> करना है, <lang:English>share</lang:English> करना है, <lang:English>comments</lang:English> करने हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20036",
+      "start" : 1352.610,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1366.140,
+      "transcriptionData" : {
+        "content" : "और #अ: ये तो है <lang:English>e~ every week I'll be #उह announcing super subscriber for the week, so</lang:English> [no-speech] आप अच्छे से तयारी कर लीजिये [laugh] अगर जीतना चाहते हैं तो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20037",
+      "start" : 1366.230,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1379.424,
+      "transcriptionData" : {
+        "content" : "तो हर <lang:English>video</lang:English> को देखना, <lang:English>like</lang:English> करना उसके बारे में अगर मैं किसी <lang:English>video</lang:English> में कोई <lang:English>question</lang:English> पूछती हूँ तो उसका <lang:English>reply</lang:English> करना, [breath] वो सब चीज़ें हैं और वो मैं आपको <lang:English>video to video #उह daily</lang:English> बताती रहा करूंगी और दूसरी चीज़ जो मैं शुरू कर रही हूँ वो ये है,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20038",
+      "start" : 1379.611,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1393.680,
+      "transcriptionData" : {
+        "content" : "कि <lang:English>I'm starting #अम्म #उह subscriber shout outs like</lang:English> अगर आपका #अ: कोई भी <lang:English>message</lang:English> या कोई भी <lang:English>comment</lang:English> मुझे ज़्यादा पसंद आता है, [breath] तो मैं उसको <lang:English>video</lang:English> के <lang:English>end</lang:English> में #अ: ज़रूर दिखाऊँगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20039",
+      "start" : 1393.780,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1402.272,
+      "transcriptionData" : {
+        "content" : "और दूसरी चीज़ #अ: अगर आप मुझे कोई <lang:English>video</lang:English> भेजते हो <lang:English>Insta</lang:English> पर या <lang:English>Facebook</lang:English> पर [breath] या मेरे <lang:English>mail <initial>ID</initial></lang:English> पर,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20040",
+      "start" : 1402.311,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1415.404,
+      "transcriptionData" : {
+        "content" : "तो हो सकता है वो <lang:English>video</lang:English> मैं <lang:English>include</lang:English> करूँ, #अ: <lang:English>video</lang:English> के <lang:English>end</lang:English> में <lang:English>daily video</lang:English> के <lang:English>end</lang:English> में, तो आप #अ: ये भी कर सकते हो, <lang:English>and [laugh] these are two things which I'm going to start very soon</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20041",
+      "start" : 1415.630,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1428.172,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> मेरे से #अ: बहुत लोगों ने #अ: आज से पाँच छह महीने पहले मैंने पुछा था, अभी जो लोग <lang:English>live</lang:English> हैं <lang:English>at least you can comment and answer because I'm starting uh</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20042",
+      "start" : 1429.181,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1442.424,
+      "transcriptionData" : {
+        "content" : "<lang:English>some new web series</lang:English> क्योंकि <lang:English>facial facial</lang:English> बहुत हो गए, <lang:English>I think</lang:English> #अ: बीस पच्चीस <lang:English>facial videos</lang:English> मैंने <lang:English>upload</lang:English> कर दिए हैं अभी तक, तो <lang:English>I'm going to start a web series, I'm thinking only</lang:English>, अभी मेरे को अगर आप लोगों के,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20043",
+      "start" : 1442.561,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1457.260,
+      "transcriptionData" : {
+        "content" : "<lang:English>comments</lang:English> में आप लोग मुझे बताते हो कि ये <lang:English>start</lang:English> कीजिये हम <lang:English>follow</lang:English> करेंगे, तभी मैं #अ: आप लोगों के साथ वो उस तरह के <lang:English>videos share</lang:English> करूँगी क्योंकि उसमे मैं मैं ही नहीं होंगी मेरे साथ कुछ <lang:English>experts</lang:English> होंगे, जो <lang:English>different different segments</lang:English> में आपकी <lang:English>help</lang:English> करेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20044",
+      "start" : 1457.400,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1463.680,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Weight loss exercise</lang:English> है, तो कोई <lang:English>Zumba teacher</lang:English> जो मुझे सिखाती हैं, मैं उनको कहूँगी की आपके लिए <lang:English>video</lang:English> बनाएं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20045",
+      "start" : 1463.920,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1472.132,
+      "transcriptionData" : {
+        "content" : "और #अ: इसी तरीके से #अ: [breath] [no-speech], कोई <lang:English>spcialist doctor</lang:English> का अगर आप चाहते हैं कि <lang:English>yes uh</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20046",
+      "start" : 1472.290,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1484.290,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>you want</lang:English> की उनकी <lang:English>guidance</lang:English> आपको मिले तो इस तरह के <lang:English>video</lang:English> कुछ <lang:English>special videos, I want to share if you're</lang:English> मतलब #अ: <lang:English>if you're with me then only I'll start</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20047",
+      "start" : 1484.500,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1495.368,
+      "transcriptionData" : {
+        "content" : "ये <lang:English>idea</lang:English> कैसा है <lang:English>comment</lang:English> करके मुझे बता दीजियेगा। <lang:English>Hi Mamta. Hi Mamata Kashyap.</lang:English> [breath] तो ये <lang:English>idea</lang:English> कैसा है और आप मेरा साथ दोगे या नहीं दोगे ये भी मुझे बता दीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20048",
+      "start" : 1495.561,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1507.912,
+      "transcriptionData" : {
+        "content" : "<lang:English>Because</lang:English> #अ: होता तो है हम लोग जोश जोश में <lang:English>start</lang:English> करते हैं, <lang:English>but if~ last time</lang:English> मैंने <lang:English>weight loss series</lang:English> भी <lang:English>start</lang:English> की थी, <lang:English>but [breath] I didn't see any response, I and I need good response on it</lang:English>, तो मैंने बंद कर दिया वो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20049",
+      "start" : 1508.212,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1518.510,
+      "transcriptionData" : {
+        "content" : "<lang:English>and facial</lang:English> भी अब <lang:English>I think</lang:English> आप लोग <lang:English>bore</lang:English> हो चुके हो <lang:English>facial series</lang:English> से भी तो, <lang:English>I'm just closing it and starting a new web series</lang:English> अगर आप साथ दोगे तो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20050",
+      "start" : 1518.610,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1531.652,
+      "transcriptionData" : {
+        "content" : "[breath] या फिर हम #अ: <lang:English>makeup series</lang:English> भी <lang:English>start</lang:English> कर सकते हैं, तो <lang:English>makeup</lang:English> या <lang:English>weight loss, #उह makeup</lang:English> या फिर <lang:English>exercise series</lang:English>, दोनों में से <lang:English>choice</lang:English> है, [breath] आप मुझे अभी <lang:English>comments</lang:English> कर के बताओ, मेरे को जिस चीज़ के ज़्यादा <lang:English>comments</lang:English> आएंगे <lang:English>I'll start that series</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20051",
+      "start" : 1531.731,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1542.912,
+      "transcriptionData" : {
+        "content" : "<lang:English>Either a makeup series or either a #उह weight loss, exercise series.</lang:English> तो <lang:English>week by week</lang:English> होंगे वो <lang:English>video, every week</lang:English> में एक <lang:English>video</lang:English> आएगा। <lang:English>One week</lang:English> आपको वो <lang:English>exercise</lang:English> करनी होगी,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20052",
+      "start" : 1543.191,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1550.128,
+      "transcriptionData" : {
+        "content" : "<lang:English>and then next #उह week</lang:English> में दूसरी <lang:English>exercise</lang:English> दिखाई जाएगी तो [breath] <lang:English>there will be specialist who will be teaching you</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20053",
+      "start" : 1550.851,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1560.308,
+      "transcriptionData" : {
+        "content" : "<lang:English>Okay</lang:English>, तो जितने मेरे पास <lang:English>comments #उह you know</lang:English> जिस <lang:English>series</lang:English> के ज़्यादा आएंगे या जिसकी <lang:English>choices</lang:English> ज़्यादा आएँगी, मैं वही <lang:English>upload</lang:English> करुँगी और,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20054",
+      "start" : 1560.848,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1568.670,
+      "transcriptionData" : {
+        "content" : "#अ: [no-speech] अभी तो <lang:English>mix</lang:English> आ रहे हैं, <lang:English>I think more of a exercise series [no-speech]. Okay</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20055",
+      "start" : 1573.370,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1583.940,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yeah, I can see more of exercise series #उह comments, [no-speech] some makeup series. So, we'll do one thing, we'll start with #उह exercise series.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20056",
+      "start" : 1584.351,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1597.264,
+      "transcriptionData" : {
+        "content" : "<lang:English>So if you're with me, then only I'll start</lang:English> मतलब मेरे को <lang:English>sometimes</lang:English> ऐसा लगता है कि यार <lang:English>why I'm investing so much of time and effort because</lang:English> अगर आपका साथ नहीं है, आप नहीं देखना चाहते हो तो फिर कोई फायदा नहीं है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20057",
+      "start" : 1597.524,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1612.250,
+      "transcriptionData" : {
+        "content" : "तो इसलिए आपको <lang:English>promise</lang:English> करना पड़ेगा कि आप मेरे साथ दोगे, मेरे साथ रहोगे [laugh] और अगर मैं <lang:English>efforts</lang:English> करती हूँ तो मुझे <lang:English>efforts</lang:English> या थोड़ा सा <lang:English>effort</lang:English> आप भी कर लेना, <lang:English>like share</lang:English> करने का, [breath] तो इतना तो आप कर ही सकते हो और उसमें आपका कोई पैसा तो नहीं लग रहा है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20058",
+      "start" : 1613.980,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1618.520,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha.</lang:English> [no-speech] साथ हैं, <lang:English>okay thank you</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20059",
+      "start" : 1620.750,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1634.180,
+      "transcriptionData" : {
+        "content" : "<lang:English>Both</lang:English> [laugh] ठीक है <lang:English>I'll #उह yeah I'll start with one. I'll start with weight loss queries and then I'll extend it to you know</lang:English> #अ: एक और एक <lang:English>day fix</lang:English> कर देंगे <lang:English>makeup</lang:English> का भी बाद में।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20060",
+      "start" : 1636.290,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1643.760,
+      "transcriptionData" : {
+        "content" : "ठीक है, लेकिन ये फिर आपकी <lang:English>duty</lang:English> बनती है उन उन <lang:English>videos</lang:English> को <lang:English>successful</lang:English> बनाना थोड़ा सा। [laugh]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20061",
+      "start" : 1643.840,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1653.730,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Sukhpreet. Thank you so much. Summer serum yes</lang:English> इसी <lang:English>week</lang:English> आएगा <lang:English>dear</lang:English> मैं अब~ <lang:English>time</lang:English> निकाल के जरूर इस <lang:English>week</lang:English> बनाऊँगी। <lang:English>Summer #उह serum</lang:English> इसी इसी <lang:English>week</lang:English> करेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20062",
+      "start" : 1657.960,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1672.040,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Mamta Kashyap. Thank you Richa. Thank you Sania. [no-speech] My eyes are beautiful</lang:English> अरे #अ: [laugh] आज तक तो किसी ने नहीं कहा। आज <lang:English>first time</lang:English> मैं भी अपनी आँखें देख लूँगी आज <lang:English>really beautiful</lang:English> हैं। [laugh]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20063",
+      "start" : 1673.580,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1674.590,
+      "transcriptionData" : {
+        "content" : "<lang:English>Okay.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20064",
+      "start" : 1676.670,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1685.380,
+      "transcriptionData" : {
+        "content" : "<lang:English>So, yes exercise. Okay</lang:English> फिर <lang:English>then exercise, fine. Next week next week</lang:English> मतलब ये वाला <lang:English>week</lang:English> नहीं, <lang:English>coming Monday</lang:English> नहीं।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20065",
+      "start" : 1685.580,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1699.700,
+      "transcriptionData" : {
+        "content" : "<lang:English>Next week</lang:English> से <lang:English>start</lang:English> करते हैं <lang:English>and</lang:English> मैं आपको बता दूँगी कब आएगा वो <lang:English>video</lang:English>, कौन से <lang:English>day</lang:English> पर #अ: मैं उसको <lang:English>schedule</lang:English> करुँगी, तो वो मैं आपको #अ: किसी <lang:English>video</lang:English> में <lang:English>introduction</lang:English> में आपको बता दूँगी। <lang:English>Right, [noise] done</lang:English> है?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20066",
+      "start" : 1700.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1712.840,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>You're with me?</lang:English> [no-speech] चलो ठीक है फिर. <lang:English>Okay [no-speech]. Yes</lang:English> अब आप पूछिए <lang:English>questions. Pigmentation</lang:English> के लिए मैने <lang:English>potato and</lang:English> मुल्तानी मिट्टी का <lang:English>pack</lang:English> बताया हुआ है अपने <lang:English>channel</lang:English> पर, उसको <lang:English>follow</lang:English> कीजिये <lang:English>please</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20067",
+      "start" : 1715.840,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1717.180,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20068",
+      "start" : 1719.610,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1723.930,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Rashid. Thank you Kajal. Hi Neetu.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20069",
+      "start" : 1725.290,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1734.764,
+      "transcriptionData" : {
+        "content" : "यार मैं कोशिश करती हूँ <lang:English>reply</lang:English> देने की <lang:English>always always</lang:English> कोशिश करती हूँ जितना मेरे बस में होता है, पर मैं भी अकेली हूँ यार और आप लोग इतने सारे हो, इस बात का भी ध्यान रखा करो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20070",
+      "start" : 1734.981,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1745.684,
+      "transcriptionData" : {
+        "content" : "कोशिश मेरी यही होती है कि किसी ने मेरे से कुछ पूछा है, [breath] किसी ने मेरे से #अ: <lang:English>you know mail</lang:English> पर या <lang:English>comment</lang:English> पर मैं उसका <lang:English>reply</lang:English> करूँ, <lang:English>but sometimes skip</lang:English> हो जाता है, <lang:English>yes</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20071",
+      "start" : 1745.991,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1756.880,
+      "transcriptionData" : {
+        "content" : "<lang:English>I agree sometimes skip</lang:English> हो जाता है तो उसके लिए मैं आपसे माफ़ी माँग~ माँगती हूँ, लेकिन मेरी भी <lang:English>problem</lang:English> समझो और कोशिश करती हूँ हमेशा सबके <lang:English>comments</lang:English> के <lang:English>answer</lang:English> देने की और <lang:English>video</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20072",
+      "start" : 1756.901,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1769.504,
+      "transcriptionData" : {
+        "content" : "जब मैं <lang:English>upload</lang:English> करती हूँ एक घंटे के बाद मतलब एक घंटे के अंदर अगर आप पूछते हो ना [breath] तो <lang:English>definitely I'm there, I'm online only and</lang:English> मैं आपके <lang:English>comments</lang:English> का <lang:English>answer</lang:English> कर रही होती हूँ, तो कोशिश किया करो जब <lang:English>video upload</lang:English> हो उसी <lang:English>time</lang:English> पर आप देखो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20073",
+      "start" : 1769.581,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1782.988,
+      "transcriptionData" : {
+        "content" : "ताकि #अम्म [no-speech] आपको #अ: मेरे <lang:English>comments</lang:English> आपके <lang:English>comments</lang:English> के <lang:English>answers</lang:English> मिल सकें उसी <lang:English>time</lang:English> पर क्योंकि महा~ पूरा दिन तो मैं <lang:English>online</lang:English> नहीं बैठ सकती हूँ, <lang:English>comments</lang:English> के <lang:English>answer</lang:English> नहीं कर सकती हूँ, लेकिन <lang:English>yes video upload</lang:English> करने के,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20074",
+      "start" : 1783.280,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1793.340,
+      "transcriptionData" : {
+        "content" : "बाद एक घंटे तक मैं हमेशा होती हूँ <lang:English>online</lang:English>, [breath] तो आप तब पूछेंगे तो आपको <lang:English>chances</lang:English> ज़्यादा मिलेंगे #अ: कि मेरे #अ: <lang:English>answers back</lang:English> करने के।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20075",
+      "start" : 1793.640,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1803.860,
+      "transcriptionData" : {
+        "content" : "तो इसलिए <lang:English>try</lang:English> कि मैं आपको कभी #अ: कि आप तभी <lang:English>comment</lang:English> करो जब मैंने <lang:English>video upload</lang:English> किया <lang:English>within one hour, I'm online on that time</lang:English> तो मैं आपके <lang:English>answers</lang:English> कर सकती हूँ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20076",
+      "start" : 1806.920,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1818.224,
+      "transcriptionData" : {
+        "content" : "<lang:English>Oily skin</lang:English> में रोज एक #अम्म <lang:English>facial oil</lang:English> रोज एक <lang:English>essential oil</lang:English> आप <lang:English>use</lang:English> कर सकते हो। <lang:English>There is no harm</lang:English>. वैसे आप <lang:English>tea tree oil use</lang:English> करेंगे तो ज़्यादा अच्छा <lang:English>because</lang:English> वो <lang:English>anti-bacterial</lang:English> भी होता है, [breath]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20077",
+      "start" : 1818.284,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1824.010,
+      "transcriptionData" : {
+        "content" : "और आपको #अ: <lang:English>acne</lang:English> और <lang:English>pimples</lang:English> आने से भी बचाता है। <lang:English>Hi M D Ajmal</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20078",
+      "start" : 1826.430,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 1830.850,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Rajinder Kaur. Thank you. [no-speech] Welcome.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20079",
+      "start" : 1833.610,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1836.600,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Mamta, you are blessed.</lang:English> [laugh]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "20080",
+      "start" : 1839.360,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1847.860,
+      "transcriptionData" : {
+        "content" : "<lang:English>Okay.</lang:English> [no-speech] मुलेठी वाला दिया हुआ है, <lang:English>try</lang:English> किया, दाने आ गए हैं ना तो <lang:English>stop it</lang:English>. देखो हर चीज़ हर किसी को <lang:English>suit</lang:English> नहीं करती है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3001",
+      "start" : 1848.180,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1861.750,
+      "transcriptionData" : {
+        "content" : "तो अगर आपको उससे कुछ हल्का सा भी #अ: लग रहा है ना कि आपकी <lang:English>skin</lang:English> में कुछ गलत हो रहा है, तो उसी <lang:English>time</lang:English> र~ रोक दो। [breath] मैं ये कभी नहीं <lang:English>suggest</lang:English> करूँगी कि आप मेरी ये चीज़ <lang:English>use</lang:English> करनी ही करनी है चाहे आपको कुछ भी हो जाये।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3002",
+      "start" : 1861.751,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1871.840,
+      "transcriptionData" : {
+        "content" : "आपको पहले ही <lang:English>application</lang:English> में अगर #अ: लगता है कि ये चीज़ मुझे <lang:English>suit</lang:English> नहीं कर रही है तो रोक दो। हर चीज़ हर किसी को <lang:English>suit</lang:English> नहीं करती है, [breath] तो ये आपको ध्यान में रखना पड़ेगा,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3003",
+      "start" : 1871.961,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1876.948,
+      "transcriptionData" : {
+        "content" : "और <lang:English>mostly</lang:English> वैसे ऐसे ही चीज़ें मैं बताती हूँ जो सबको <lang:English>yo~ suit</lang:English> कर जाए,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3004",
+      "start" : 1877.161,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1886.444,
+      "transcriptionData" : {
+        "content" : "लेकिन <lang:English>sometime</lang:English> #अ: अगर आपकी <lang:English>skin</lang:English> बहुत ज़्यादा <lang:English>sensitive</lang:English> है या आपकी <lang:English>skin</lang:English> में ही बहुत ज़्यादा है तो कोई चीज़ आपको ना <lang:English>suit</lang:English> करे तो उसको फ़ौरन [breath] <lang:English>use</lang:English> करना बंद कर दो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3005",
+      "start" : 1886.480,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1896.560,
+      "transcriptionData" : {
+        "content" : "अगर छोटे छोटे दाने हो भी रहे हैं ना तो आप उसपे मुल्तानी मिट्टी लगा लो या नीम का <lang:English>face pack</lang:English> कोई भी लगा लो। तो उसको रोक दो जिससे दाने हुए हैं, ठीक है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3006",
+      "start" : 1901.120,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1915.408,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Shweta. [no-speech] Hi Renuka. Pigmentation pigmentation</lang:English> बहुत सारे <lang:English>pigmentation</lang:English> के #अ: <lang:English>facial series close</lang:English> नहीं करूँ? <lang:English>Okay, [laugh] I'm not crying, who is saying I'm crying, I'm not crying</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3007",
+      "start" : 1916.060,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1930.580,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Facial series</lang:English> मेरा <lang:English>close</lang:English> करने का #अ: [no-speech] <lang:English>reason</lang:English> कुछ #अ: ये है कि अभी आप लोग शायद <lang:English>bore</lang:English> हो गए हो, मैं तो नहीं <lang:English>bore</lang:English> होती हूँ क्योंकि मैं तो <lang:English>every week</lang:English> कुछ ना कुछ नया करती ही हूँ। [breath]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3008",
+      "start" : 1930.700,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1944.164,
+      "transcriptionData" : {
+        "content" : "#अ: मुझे ऐसा लगा <lang:English>last two weeks</lang:English> से कि शायद आप लोग इस तरह के <lang:English>videos</lang:English> अब नहीं देखना चाहते हो <lang:English>because [no-speech] every week</lang:English> शायद आपके लिए <lang:English>possible</lang:English> नहीं है या फिर आप लोग नहीं उसको करते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "3009",
+      "start" : 1944.340,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1956.520,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>views</lang:English> से ही मैं अंदाज़ा लगाती हूँ कि इतने <lang:English>views</lang:English> आये तो <lang:English>I think people are not interested now. So, I thought</lang:English> कि इसको <lang:English>stop</lang:English> करके कुछ नया शुरू करते हैं, <lang:English>that's why I'm closing it</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30010",
+      "start" : 1956.781,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1968.904,
+      "transcriptionData" : {
+        "content" : "बाकी अगर आप लोगों की [laugh] <lang:English>hi Saloni yes, close</lang:English> नहीं करूँ, <lang:English>video close</lang:English> नहीं कर रही हूँ, <lang:English>video</lang:English> तो बनाती रहूंगी। <lang:English>I'm thinking of closing the facial series because</lang:English> [breath] अभी काफी लम्बा <lang:English>time</lang:English> हो गया है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30011",
+      "start" : 1969.200,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1977.544,
+      "transcriptionData" : {
+        "content" : "तो देखूँगी फिर भी, अगर आप लोग चाहोगे और [no-speech] मेरे को <lang:English>requests</lang:English> बहुत सारी आती हैं, <lang:English>then I'll continue</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30012",
+      "start" : 1977.632,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 1989.400,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Otherwise, I'm thinking to stop the facial series because</lang:English> [no-speech] अभी #अ: <lang:English>interest</lang:English> आप लोगों का दिख नहीं रहा है मुझे उसमें [no-speech] कुछ लोगों को छोड़ के [no-speech], ठीक है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30013",
+      "start" : 1991.950,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2001.060,
+      "transcriptionData" : {
+        "content" : "<lang:English>Facial hair</lang:English> पर <lang:English>video already</lang:English> मैंने बनाया हुआ है <lang:English>dear. [no-speech] Hi M D Ajmal</lang:English>. मैंने आपका नाम पहले भी लिया था। [no-speech] <lang:English>How tall? uh.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30014",
+      "start" : 2003.280,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2015.812,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Prabha. [no-speech] Priya</lang:English> मैंने <lang:English>question</lang:English> ही नहीं देखा आपका <lang:English>reply</lang:English> क्या करूँ? [no-speech] <lang:English>Intermittent fasting</lang:English> की <lang:English>series</lang:English> इसलिए बंद की थी क्योंकि मुझे <lang:English>response</lang:English> नहीं आया था आप लोगों का उस पर।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30015",
+      "start" : 2016.101,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2024.520,
+      "transcriptionData" : {
+        "content" : "तो मैं आप लोगों की <lang:English>demand</lang:English> पर <lang:English>videos</lang:English> बनाती हूँ ये याद रखियेगा और आपका <lang:English>support</lang:English> करना मुझे उतना ही ज़रूरी है जितना की मेरा <lang:English>video</lang:English> बनाना।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30016",
+      "start" : 2024.641,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2038.340,
+      "transcriptionData" : {
+        "content" : "क्योंकि अगर मुझे कहीं पर #अ: कुछ मेरी <lang:English>efforts</lang:English> में मैं कमी नहीं रखती हूँ तो अगर कहीं मुझे ऐसा लगता है कि <lang:English>yes this thing is not working, you're not liking it, then I'll stop immediately</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30017",
+      "start" : 2038.500,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2052.372,
+      "transcriptionData" : {
+        "content" : "तो इसीलिए मैंने छोड़ा था। अभी आप लोग कह रहे हो की <lang:English>exercise</lang:English> पर, <lang:English>Zumba</lang:English> पर या <lang:English>you know #उह weight loss exercises</lang:English> पर मैं <lang:English>video</lang:English> बनाऊँ <lang:English>and professionals</lang:English> के साथ बनाऊँगी, <lang:English>obviously I'll spend money [laugh] for that also.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30018",
+      "start" : 2052.621,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2056.412,
+      "transcriptionData" : {
+        "content" : "<lang:English>So, #अम्म it's hit and trial, if you if you like it</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30019",
+      "start" : 2056.730,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2070.540,
+      "transcriptionData" : {
+        "content" : "<lang:English>then only I'll continue that web series #उह otherwise</lang:English> मैं उसे <lang:English>stop</lang:English> कर दूँगी, तो इसीलिए #अ: आपका <lang:English>support</lang:English> और आपका [breath] <lang:English>cooperation</lang:English> और उतना ही ज़रूरी है जितना कि [laugh] मेरा <lang:English>video</lang:English> बनाना।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30020",
+      "start" : 2072.190,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2077.740,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes. Hi Saroj. I'm good. How are you? Hi Anu. Love you.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30021",
+      "start" : 2079.840,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2087.604,
+      "transcriptionData" : {
+        "content" : "<lang:English>Weight loss</lang:English> पर <lang:English>Pragati #उह yes</lang:English> ज़रूर मैं अभी इस <lang:English>week</lang:English> कोई <lang:English>video share</lang:English> करूंगी, एक <lang:English>weight loss</lang:English> हो गया और एक <lang:English>summer serum</lang:English> हो गया।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30022",
+      "start" : 2087.821,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2100.340,
+      "transcriptionData" : {
+        "content" : "ये दो तो <lang:English>share</lang:English> करने ही हैं क~ मुझे और कल <lang:English>tanaka massage</lang:English> का <lang:English>video share</lang:English> कर रही हूँ। <lang:English>Please</lang:English> उसे ज़रूर <lang:English>follow</lang:English> कीजियेगा। जो लोग मेरा <lang:English>facial #उह videos follow</lang:English> करते हैं वो तो ज़रूर करें <lang:English>at least</lang:English> उनसे मैं <lang:English>expect</lang:English> करती हूँ ये।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30023",
+      "start" : 2100.540,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2110.644,
+      "transcriptionData" : {
+        "content" : "क्योंकि आपको बहुत अच्छे <lang:English>results</lang:English> मिलने वाले हैं। <lang:English>Hi Rajan</lang:English>. बहुत अच्छे <lang:English>results</lang:English> मिलने वाले हैं <lang:English>tanaka massage</lang:English> के तो कल का <lang:English>video</lang:English> ज़रूर आपने देखना है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30024",
+      "start" : 2112.109,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2120.388,
+      "transcriptionData" : {
+        "content" : "<lang:English>Pimples</lang:English> बहुत हो रहे हैं, तो मैंने कल एक <lang:English>teenager skin care routine</lang:English> पर <lang:English>video</lang:English> बनाया था। <lang:English>Please</lang:English> उसको <lang:English>watch</lang:English> कीजियेगा। <lang:English>Summer day cream</lang:English> या <lang:English>summer serum</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30025",
+      "start" : 2121.129,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2128.788,
+      "transcriptionData" : {
+        "content" : "इन दोनों में से एक चीज़ मैं बन पाऊँगी इस <lang:English>week</lang:English> इस <lang:English>week. #उह serum</lang:English> आप #अ: मेरे को <lang:English>comment</lang:English> करके बता दो, <lang:English>serum</lang:English> चाहते हो या <lang:English>day cream</lang:English> चाहते हो?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30026",
+      "start" : 2130.860,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2137.520,
+      "transcriptionData" : {
+        "content" : "मोटा होने के लिए मैंने #अ: दो तीन <lang:English>videos</lang:English> अपने <lang:English>channel</lang:English> पर डाले हुए हैं तो <lang:English>please</lang:English> उनको <lang:English>follow</lang:English> कीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30027",
+      "start" : 2140.840,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2149.620,
+      "transcriptionData" : {
+        "content" : "मेरी भी <lang:English>hi accept</lang:English> कर लो. <lang:English>Hi Preity Sharma. [no-speech] Cetaphil is good for sensitive skin, yes you can use it.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30028",
+      "start" : 2152.600,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2153.820,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Hema.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30029",
+      "start" : 2159.520,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2164.644,
+      "transcriptionData" : {
+        "content" : "<lang:English>Face glow</lang:English> पर तो यार #अ: मेरे <lang:English>every week two three videos</lang:English> होते हैं।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30030",
+      "start" : 2164.911,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2175.900,
+      "transcriptionData" : {
+        "content" : "<lang:English>Follow my channel, subscribe it</lang:English>, अगर नहीं किया है तो आपको <lang:English>notification</lang:English> आएगा और आप <lang:English>you know</lang:English> अपने <lang:English>face</lang:English> को <lang:English>glow</lang:English> कर पाओगे, ऐसे बहुत सारे [breath] <lang:English>you know</lang:English> मेरे पास #अ:,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30031",
+      "start" : 2177.451,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2183.220,
+      "transcriptionData" : {
+        "content" : "<lang:English>ladies</lang:English> हैं जिन्होंने <lang:English>face</lang:English> को अपने <lang:English>change</lang:English> कर लिया है <lang:English>totally with those facials and <initial>DIY</initial></lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30032",
+      "start" : 2183.491,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2195.788,
+      "transcriptionData" : {
+        "content" : "मेरे पास रोज कुछ लोगों के <lang:English>comments</lang:English> और <lang:English>mails</lang:English> आते हैं कि <lang:English>yes</lang:English> जबसे हमने में ये <lang:English>series follow</lang:English> करना शुरू किया, मतलब तब पूछ रहे हैं कि क्या क्या यार आपकी <lang:English>skin</lang:English> बदल गयी है बिल्कुल और आपकी <lang:English>skin</lang:English> बहुत अच्छी हो गयी है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30033",
+      "start" : 2195.851,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2207.400,
+      "transcriptionData" : {
+        "content" : "ये मैं तारीफ़ नहीं कर रही हूँ, लोग कर रहे हैं तो आप [no-speech] <lang:English>comments</lang:English> भी देख सकते हो आप #अम्म उस <lang:English>channel</lang:English> पर जाकर के देख सकते हो लोगों को पसंद आया और लोगों को <lang:English>results</lang:English> भी मिल रहे हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30034",
+      "start" : 2207.460,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2217.270,
+      "transcriptionData" : {
+        "content" : "<lang:English>so, follow those #उह <initial>DIY</initial> series</lang:English> और <lang:English>facial series if you want to bring glow on your face. [no-speech] Yes.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30035",
+      "start" : 2221.370,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2223.250,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Seema Parashar.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30036",
+      "start" : 2226.250,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2234.870,
+      "transcriptionData" : {
+        "content" : "आपकी अगर <lang:English>age</lang:English> है <lang:English>seventeen</lang:English> तो कल मैंने <lang:English>teenagers skin care routine</lang:English> का <lang:English>video upload</lang:English> किया था, <lang:English>please</lang:English> उसको <lang:English>watch</lang:English> कीजिये, <lang:English>follow</lang:English> कीजिये वो <lang:English>routine.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30037",
+      "start" : 2238.660,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2249.950,
+      "transcriptionData" : {
+        "content" : "<lang:English><initial>PCOD</initial></lang:English> का <lang:English>weight loss diet plan</lang:English> मैंने <lang:English>share</lang:English> किया हुआ है। <lang:English><initial>PCOD</initial> diet plan</lang:English> मैंने <lang:English>share</lang:English> किया हुआ है, [breath] अपने <lang:English>channel</lang:English> पर आप जब देखोगे #अ: <lang:English>women health playlist</lang:English> में जाना, उसमें आपको मिल जायेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30038",
+      "start" : 2256.630,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2264.790,
+      "transcriptionData" : {
+        "content" : "लावी मैंने <lang:English>question</lang:English> ही नहीं पढ़ा आपका, आप सिर्फ यही लिख रहे हो मेरा <lang:English>reply</lang:English> क्यों नहीं कर रहे हो, मेरा <lang:English>reply</lang:English> क्यों नहीं कर रहे हो? मैंने <lang:English>question</lang:English> ही नहीं पढ़ा है, <lang:English>question</lang:English> भेजो ना दोबारा से।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30039",
+      "start" : 2268.150,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2270.910,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Shiv Singh</lang:English> जी। <lang:English>Thank you so much</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30040",
+      "start" : 2276.640,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2284.960,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Nancy Sonkar. Hi.</lang:English> [no-speech] नहीं <lang:English>Aegte Kumkuma oil</lang:English> से <lang:English>pimples</lang:English> बिल्कुल नहीं होते हैं।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30041",
+      "start" : 2285.180,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2297.060,
+      "transcriptionData" : {
+        "content" : "अगर <lang:English>extremely oily skin</lang:English> है, <lang:English>then I can't say.</lang:English> तब मैंने बताया भी था अगर आपकी <lang:English>oily skin</lang:English> है तो आप बिल्कुल एक <lang:English>drop</lang:English> लेना उससे ज़्यादा मत लेना और लगाना, तो #अ:,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30042",
+      "start" : 2299.320,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2303.730,
+      "transcriptionData" : {
+        "content" : "उससे <lang:English>pimples</lang:English> नहीं होते हैं। <lang:English>I've been using it, pimples</lang:English> नहीं होते हैं बिल्कुल भी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30043",
+      "start" : 2308.160,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2311.720,
+      "transcriptionData" : {
+        "content" : "<lang:English>Dark circles</lang:English> में फर्क नहीं पड़ रहा है तो कल का <lang:English>video</lang:English> देखिएगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30044",
+      "start" : 2314.840,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2328.000,
+      "transcriptionData" : {
+        "content" : "[breath] मेरी तबियत बिल्कुल ठीक है। <lang:English>I don't know</lang:English> आपको ऐसा क्यों लग रहा है की आज मेरी तबियत ख़राब है या [breath] <lang:English>you know</lang:English> मेरे <lang:English>face</lang:English> पर कुछ अलग ही #अ: शायद #अ: [laugh] <lang:English>dullness</lang:English> दिख रही है [cough] [no-speech] तो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30045",
+      "start" : 2330.480,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2345.290,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Prabha, stay blessed. [no-speech] Yes shampoo</lang:English> के लिए मैंने बताया हुआ है आपको <lang:English>Qykkare</lang:English> का <lang:English>shampoo</lang:English> बताया हुआ है, [breath] <initial>VLCC</initial> का <lang:English>coconut and hibiscus</lang:English> का <lang:English>shampoo</lang:English> बताया हुआ है, सब बताया हुआ है आपको।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30046",
+      "start" : 2347.380,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2351.330,
+      "transcriptionData" : {
+        "content" : "<lang:English>Minu Chaudhary [no-speech], what is your question?</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30047",
+      "start" : 2357.960,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2365.128,
+      "transcriptionData" : {
+        "content" : "अभी अगर इस मौसम की बात करें तो कुमकुमा अच्छा है <lang:English>dear. Vitamin C</lang:English> थोड़ा सा <lang:English>oily</lang:English> हो जायेगा, कुमकुमा अच्छा है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30048",
+      "start" : 2365.800,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2375.244,
+      "transcriptionData" : {
+        "content" : "<lang:English>That is for polishing you know, skin</lang:English> में जब <lang:English>dullness</lang:English> बहुत ज़्यादा हो जाती है, तो कुमकुमा वाला <lang:English>use</lang:English> कीजिये। नहीं मेरे को जुकाम नहीं है बिलकुल भी [laugh], बिल्कुल नहीं है जुकाम।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30049",
+      "start" : 2376.404,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2381.484,
+      "transcriptionData" : {
+        "content" : "<lang:English>Samreen Sultana</lang:English>, मैंने <lang:English>pre bridal skin care</lang:English> का <lang:English>video upload</lang:English> किया हुआ है, आप उसको देख सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30050",
+      "start" : 2390.490,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2392.510,
+      "transcriptionData" : {
+        "content" : "<lang:English>Love you too Gitanjali.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30051",
+      "start" : 2397.330,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2402.160,
+      "transcriptionData" : {
+        "content" : "<lang:English>Dermaroller</lang:English> के ऊपर मैंने <lang:English>video</lang:English> बनाया हुआ है। <lang:English>Dermaroller</lang:English> के <lang:English>uses</lang:English> भी बताये हैं आपको।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30052",
+      "start" : 2406.510,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2408.280,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Swastika.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30053",
+      "start" : 2412.380,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2421.760,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hair fall</lang:English> के लिए प्याज वाली <lang:English>remedy use</lang:English> करो <lang:English>that is the best. Onion</lang:English> का आपने <lang:English>juice</lang:English> लेना है, उसमे थोड़ा सा <lang:English>honey</lang:English> मिलाना है, थोड़ा सा <lang:English>olive oil</lang:English> मिला लेना है,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30054",
+      "start" : 2421.940,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2433.800,
+      "transcriptionData" : {
+        "content" : "और इन तीनो चीज़ों को <lang:English>mix</lang:English> करके ना आपको अ~ आधे घंटे तक अपने बालों में लगा लेना है <lang:English>and</lang:English> उसके बाद <lang:English>shampoo</lang:English> कर लेना है, <lang:English>that is the that is the best remedy for hair fall</lang:English>, आप उसको <lang:English>try</lang:English> कीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30055",
+      "start" : 2440.290,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2452.780,
+      "transcriptionData" : {
+        "content" : "सतविंदर कौर जी <lang:English>question</lang:English> नहीं मिला मुझे आपका, [breath] क्या मैं <lang:English>reply</lang:English> क्या करूँ बताइये? <lang:English>Hi bulti~ Malti Yadav. [no-speech] Medical patient</lang:English> क्या होता है? <lang:English>Sorry, I could not understand this</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30056",
+      "start" : 2457.970,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2469.480,
+      "transcriptionData" : {
+        "content" : "<lang:English>See, #उह periods</lang:English> में <lang:English>bleeding</lang:English> किसी को <lang:English>one day</lang:English> होती है, <lang:English>two days</lang:English> होती है, <lang:English>three days</lang:English> होती है <lang:English>depends upon your [breath] #अम्म you know body</lang:English>, अलग अलग <lang:English>body</lang:English> का अलग अलग <lang:English>system</lang:English> होता है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30057",
+      "start" : 2469.990,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2479.030,
+      "transcriptionData" : {
+        "content" : "तो कोई घबराने की बात नहीं है, अगर आपको कम होती है तो, तो <lang:English>it's normal</lang:English>. अगर आपको <lang:English>regularly</lang:English> वैसा ही हो रहा है <lang:English>then it is quite normal</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30058",
+      "start" : 2481.790,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2492.660,
+      "transcriptionData" : {
+        "content" : "<lang:English>Color fair</lang:English> के लिए #अ~ बताएँ। <lang:English>Color fair</lang:English> कैसे करें, उसके लिए बताऊँ तो मैंने आपको <lang:English>hibiscus</lang:English> वाला पैक बताया हुआ है, गुड़हल के फूल का <lang:English>pack</lang:English> बताया हुआ है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30059",
+      "start" : 2492.880,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2500.130,
+      "transcriptionData" : {
+        "content" : "वो लगायें, उससे <lang:English>color fair</lang:English> होता है। चावल के आटे से रंग <lang:English>fair</lang:English> होता है। <lang:English>So</lang:English> ये दो चीज़ें आप <lang:English>try</lang:English> कर सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30060",
+      "start" : 2505.430,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2507.820,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Mohammed Khan, Kavita.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30061",
+      "start" : 2509.530,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2522.424,
+      "transcriptionData" : {
+        "content" : "बच्चों के लिए <lang:English>fair skin</lang:English> के लिए <lang:English>dear</lang:English> सिर्फ मैं बेसन और दही <lang:English>recommend</lang:English> करूँगी, इसके अलावा और कुछ <lang:English>recommend</lang:English> नहीं करूँगी, बच्चों की <lang:English>skin</lang:English> बहुत <lang:English>tender</lang:English> होती है [breath] और <lang:English>I don' think</lang:English> कि आपको सोचने की भी ज़रुरत है कि बच्चा कला है या गोरा है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30062",
+      "start" : 2522.664,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2530.630,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Teenage</lang:English> को आते हैं तो वो अपने आप वो <lang:English>cautious</lang:English> हो जाते हैं और अपने आप अपनी अच्छी से #अ: ध्यान रखने लगते हैं चीज़ें <lang:English>use</lang:English> करने लागत हैं खुद ही,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30063",
+      "start" : 2530.631,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2538.200,
+      "transcriptionData" : {
+        "content" : "तो मुझे नहीं लगता है कि बच्चों के <lang:English>skin</lang:English> को लेकर के आपको #अ: कुछ भी इतना ज़्यादा सोचना चाहिए अभी इस <lang:English>age</lang:English> में।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30064",
+      "start" : 2544.820,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2557.720,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes. [no-speech] Dark circle</lang:English> का नहीं <lang:English>dark circles</lang:English> के लिए मैंने <lang:English>almond cream</lang:English> आपको बनानी सिखाई हुई है। मैंने अखरोट की <lang:English>cream</lang:English> बनानी सिखाई हुई है, <lang:English>orange cream</lang:English> बनानी सिखाई हुई है, तो उसको <lang:English>follow</lang:English> कीजिये,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30065",
+      "start" : 2558.300,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2566.220,
+      "transcriptionData" : {
+        "content" : "या फिर [no-speech] कल का <lang:English>video</lang:English> देख लीजियेगा, मैं कुछ <lang:English>massage</lang:English> का <lang:English>video</lang:English> आपके साथ <lang:English>share</lang:English> करूँगी तो उसको <lang:English>#उह follow</lang:English> कीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30066",
+      "start" : 2566.380,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2577.780,
+      "transcriptionData" : {
+        "content" : "<lang:English>M D Ajmal, you can go from this live. I don't want such kind of people in my #उह channel</lang:English> जिनको #अ: बात करने की भी <lang:English>you know sense</lang:English> नहीं हो, <lang:English>please</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30067",
+      "start" : 2580.530,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2582.460,
+      "transcriptionData" : {
+        "content" : "<lang:English>Please leave the chat right now.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30068",
+      "start" : 2586.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2597.790,
+      "transcriptionData" : {
+        "content" : "[breath] #हम्म [no-speech] <lang:English>Prabha</lang:English> #अ: मेरे हिसाब से तो आवाज़ आ रही है, शायद आपके <lang:English>network</lang:English> में कोई <lang:English>problem</lang:English> होगी, आवाज़ अगर नहीं आ रही है तो। अगर आपकी <lang:English>belly fallen</lang:English> है <lang:English>dear</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30069",
+      "start" : 2597.870,
+      "language" : [ "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2610.260,
+      "transcriptionData" : {
+        "content" : "तो आपने क्या करना है, अजवाइन को थोड़ा सा पीस करके रख लेना है, और वो अजवाइन में थोड़ा कला नमक मिला करके ना आप खाने के बाद लीजिये, खाने के आधे घंटे के बाद बाद गरम पानी से लीजिये,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30070",
+      "start" : 2610.261,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2619.610,
+      "transcriptionData" : {
+        "content" : "तो उससे वो जो <lang:English>bloated feeling</lang:English> आपको होती है ना, वो चली जाएगी। <lang:English>Yes. [no-speech] You can leave the chat M D Ajmal, please leave the chat.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30071",
+      "start" : 2623.820,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2632.920,
+      "transcriptionData" : {
+        "content" : "[laugh] <lang:English>Product review</lang:English> यार <lang:English>start</lang:English> तो करूँ, <lang:English>but</lang:English> जब भी मैं कुछ <lang:English>review</lang:English> करती हूँ आप लोगों के सामने तो #अ: आप लोग शायद,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30072",
+      "start" : 2633.572,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2645.990,
+      "transcriptionData" : {
+        "content" : "<lang:English>you know</lang:English> आप लोगों को लगता है कि मैं कुछ पैसे कमा रही हूँ या #अ: पैसे कमाने के लिए ऐसा कर रही हूँ, तो <lang:English>review</lang:English> जब भी करती हूँ, <lang:English>it's a bad experience always for me</lang:English>, तो ऐसा नहीं है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30073",
+      "start" : 2646.292,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2656.960,
+      "transcriptionData" : {
+        "content" : "जबकि मैं दिल से जो मेरे को सही #अ: लगता है उस चीज़ का <lang:English>review</lang:English> करती हूँ। कई सारी चीज़ें मेरे पास आती हैं, जो मुझे जिसकी #अ: <lang:English>you know results</lang:English> ही अच्छे नहीं लगते, मैं आपके साथ <lang:English>review</lang:English> करती ही नहीं हूँ। [breath]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30074",
+      "start" : 2656.961,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2670.620,
+      "transcriptionData" : {
+        "content" : "उन्हीं चीज़ों का <lang:English>review</lang:English> करती हूँ या उन्हीं चीज़ों को आपके साथ <lang:English>share</lang:English> करती हूँ जो मुझे पसंद आती हैं, जो मुझे अच्छी लगती हैं। [breath] तो इसलिए #अ: [no-speech] आप लोगों को आजकल <lang:English>you know</lang:English> मेरे से नाराज़ हो लगता है। [laugh]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30075",
+      "start" : 2674.070,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2680.040,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Dolly, Dolly Sidhu, hi. [no-speech] Hi Amrish Singh.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30076",
+      "start" : 2682.450,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2692.930,
+      "transcriptionData" : {
+        "content" : "<lang:English>Diabetes</lang:English> के लिए <lang:English>natural dear</lang:English> बहुत सारी <lang:English>remedies</lang:English> हैं, मैंने <lang:English>channel</lang:English> पर भी <lang:English>share</lang:English> की हुई हैं। एक तो जामुन की गुठली का <lang:English>powder</lang:English> #अ: मिल जाता है आपको आजकल <lang:English>market</lang:English> की~ <lang:English>market</lang:English> में,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30077",
+      "start" : 2693.550,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2702.100,
+      "transcriptionData" : {
+        "content" : "तो वो आप <lang:English>try</lang:English> कर सकते हो। जामुन की गुठली का <lang:English>powder</lang:English> #अ: सुबह खाली पेट लेना है एक चम्मच गरम पानी के साथ। बहुत अच्छा उपाय है #अ: <lang:English>diabetes</lang:English> के लिए।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30078",
+      "start" : 2702.248,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2712.928,
+      "transcriptionData" : {
+        "content" : "दूसरी <lang:English>remedy</lang:English> है आम के पत्तों का <lang:English>powder that is also very very good.</lang:English> आम के पत्तों को छाये में सूखा लीजिये, उसका <lang:English>powder</lang:English> बना लीजिये [breath] <lang:English>and then</lang:English> वो <lang:English>powder</lang:English> आप एक चम्मच <lang:English>daily</lang:English> लें, तो ये आप कर सकते हो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30079",
+      "start" : 2713.100,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2724.388,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> तीसरी चीज़ जो आप कर सकते हो वो है [no-speech] <lang:English>diabetes</lang:English> के लिए जो #अ: बहुत अच्छे से काम करती है वो है करेले का <lang:English>juice</lang:English> सुबह खली पेट।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30080",
+      "start" : 2724.448,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2733.190,
+      "transcriptionData" : {
+        "content" : "<lang:English>That is also very good remedy for diabetes.</lang:English> इन तीनो में से जो आपको पसंद हो, जो आपको <lang:English>convenient</lang:English> हो वो आप कीजिये, काफी आपको अच्छे नतीजे मिल जायेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "30081",
+      "start" : 2736.668,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2749.300,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Yes. [no-speech] Lower abdominal fat</lang:English>, अभी मैं <lang:English>weight loss series</lang:English> शुरू कर रही हूँ, अगर <lang:English>exercise series</lang:English> #अ: शुरू करूँगी तो ज़रूर #अ: उसका भी <lang:English>video</lang:English> बनाऊँगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4001",
+      "start" : 2751.430,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2758.320,
+      "transcriptionData" : {
+        "content" : "<lang:English>Forty plus skin care routine</lang:English> के लिए कल का <lang:English>video</lang:English> देखिएगा। <lang:English>Tanaka massage</lang:English> #अ: आपके बड़े काम की #अ: होगी,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4002",
+      "start" : 2758.520,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2773.044,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> आपको बहुत अच्छी लगेगी। लावी मैंने ना दो हफ्ते पहले <lang:English>pedicor~ pedicure</lang:English> का <lang:English>video</lang:English> डाला था <lang:English>dear uh</lang:English> अगर आपके <lang:English>skin</lang:English> पे पैरों पर <lang:English>black spot</lang:English> हो रहे हैं ना तो आप वो <lang:English>follow</lang:English> कीजियेगा, आपको अच्छे नतीजे मिलेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4003",
+      "start" : 2782.800,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2792.632,
+      "transcriptionData" : {
+        "content" : "[laugh] मुँह पर दाने हैं, <lang:English>Mamta Sharma is asking #उह, face</lang:English> पर अगर दाने हो रहे हैं तो एक तो पहले अपनी <lang:English>eating habits</lang:English> देखो और <lang:English>sleeping habits</lang:English> देखो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4004",
+      "start" : 2793.040,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2801.852,
+      "transcriptionData" : {
+        "content" : "अगर आप <lang:English>junk</lang:English> बहुत खा रहे हो, बाहर का <lang:English>food</lang:English> बहुत खा रहे हो, या फिर अगर आप #अ~ पानी कम पी रहे हो, रातों को ठीक से सो नहीं रहे हो, तो एक तो ये तीन चीज़ें आप <lang:English>check</lang:English> करो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4005",
+      "start" : 2802.052,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2813.130,
+      "transcriptionData" : {
+        "content" : "और चौथी चीज़ जो आती है वो ये है की नीम के पत्ते सुबह खली पेट पांच से छह पत्ते आपको गरम पानी के साथ ले लेंगे, [breath] इससे आपके अंदर जो है पूरा <lang:English>system</lang:English> की सफाई हो जाएगी, <lang:English>cleanse</lang:English> हो जायेगा,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4006",
+      "start" : 2813.231,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2827.340,
+      "transcriptionData" : {
+        "content" : "और आपको दाने आने बंद हो जायेंगे। साथ ही साथ <lang:English>face</lang:English> की <lang:English>oiling</lang:English> का भी ध्यान रखिये, कोई कोई ऐसी <lang:English>cream</lang:English> तो नहीं लगा रहे हो जिससे कि आपको दाने आ रहे हैं तो <lang:English>gel based</lang:English> चीज़ें अपनाइये गर्मी के <lang:English>season</lang:English> में बहुत ज़्यादा <lang:English>heavy #उह you know oily thing</lang:English> अपने <lang:English>face</lang:English> पर अपनाया ना करें।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4007",
+      "start" : 2827.560,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2833.780,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Sania. Thank you. These kind of words really really</lang:English> #अ: मेरे को बहुत <lang:English>inspire</lang:English> करते हैं।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4008",
+      "start" : 2836.250,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2844.730,
+      "transcriptionData" : {
+        "content" : "आँखों की रोशनी के लिए कल एक <lang:English>video</lang:English> डाला था, वो ही तो चक्कर है सारा। [breath] जब <lang:English>live</lang:English> आती हूँ तो <lang:English>questions</lang:English> अलग होते हैं और जब <lang:English>video</lang:English> डालती हूँ तो आप लोग देखते नहीं हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "4009",
+      "start" : 2845.070,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2857.690,
+      "transcriptionData" : {
+        "content" : "तो #अ: कल का <lang:English>video</lang:English> रात को मैंने डाला था, आँखों की रोशनी बढ़ाने के लिए। तीन <lang:English>remedies</lang:English> उसमें बताईं थी। <lang:English>Please channel</lang:English> पर जाकर <lang:English>check out</lang:English> कर लो, बहुत <lang:English>effective</lang:English> है वो और आपको अच्छे नतीजे मिलेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40010",
+      "start" : 2857.691,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2867.720,
+      "transcriptionData" : {
+        "content" : "<lang:English>White hair</lang:English> के लिए <lang:English>dear indigo</lang:English> का <lang:English>paste</lang:English> लगाओ और देखो <lang:English>age</lang:English> के साथ साथ <lang:English>white</lang:English> होंगे ही <lang:English>hair</lang:English>, ऐसा कोई [breath] करामाती चीज़ नहीं है कि <lang:English>white</lang:English> नहीं होंगे। <lang:English>Yes</lang:English> आप <lang:English>delay</lang:English> कर सकते हो, <lang:English>like</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40011",
+      "start" : 2867.721,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2879.080,
+      "transcriptionData" : {
+        "content" : "<lang:English>forty forty-five</lang:English> की <lang:English>age</lang:English> तक आप <lang:English>delay</lang:English> कर सकते हो। वो कर सकते हो आप अच्छी <lang:English>diet</lang:English> लेकर। आँवला [breath] <lang:English>diet</lang:English> में <lang:English>include</lang:English> करके, <lang:English>flax seed di~ diet</lang:English> में <lang:English>include</lang:English> करके, <lang:English>chia seeds include</lang:English> करके।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40012",
+      "start" : 2879.400,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2890.052,
+      "transcriptionData" : {
+        "content" : "#अ: तो <lang:English>proper oiling</lang:English> करके। ये आप <lang:English>delay</lang:English> कर सकते हो <lang:English>forty to forty-five</lang:English>, अभी मेरी <lang:English>age thirty-nine</lang:English> के करीब है, तो मेरे अभी तक नहीं आये हैं, <lang:English>because I daily eat one</lang:English> आँवला,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40013",
+      "start" : 2890.381,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2896.892,
+      "transcriptionData" : {
+        "content" : "और वो आप #अ: <lang:English>follow</lang:English> कीजिये, आँवले को तो <lang:English>include</lang:English> करिये आप, आँवला नहीं तो त्रिफला <lang:English>include</lang:English> करिये।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40014",
+      "start" : 2897.201,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2908.160,
+      "transcriptionData" : {
+        "content" : "और इस के अलावा फिर आप जब आ गए हैं आपके <lang:English>black #उह white hair</lang:English> आ गए हैं तो फिर आप <lang:English>indigo use</lang:English> कीजिये हिना के बाद, तो ये बहुत अच्छी #अ: चीज़ है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40015",
+      "start" : 2908.260,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2916.460,
+      "transcriptionData" : {
+        "content" : "#अ: हिना आप लगाते हो उससे <lang:English>orange color</lang:English> आ जाता है <lang:English>and</lang:English> उसके #अ: सु~ #अ: मतलब बालों को धोने के बाद, सूखने के बाद,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40016",
+      "start" : 2916.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2925.870,
+      "transcriptionData" : {
+        "content" : "या तो उसी दिन या <lang:English>next day</lang:English> आप फिर <lang:English>indigo</lang:English> भी लगा सकते हो, #अ: वो #अ: <lang:English>really</lang:English> आपके बालों में जो <lang:English>orange color</lang:English> आया है ना [breath] उसको <lang:English>black</lang:English> या <lang:English>brown</lang:English> कर देगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40017",
+      "start" : 2931.370,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2940.740,
+      "transcriptionData" : {
+        "content" : "<lang:English>Love you Swastika. [no-speech] Eyebrow growth</lang:English> के लिए <lang:English>castor oil</lang:English> में <lang:English>vitamin E oil</lang:English> मिला करके लगाएं, <lang:English>so this is the best solution for that</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40018",
+      "start" : 2945.750,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2956.800,
+      "transcriptionData" : {
+        "content" : "<lang:English>Forty plus skin care routine</lang:English> दी है, कल मेरी <lang:English>massage</lang:English> देख लेना [breath] और <lang:English>skin care routine</lang:English> भी बहुत जल्दी मैं आपको बता दूँगी। <lang:English>Forty plus</lang:English> के लिए मतलब कल का <lang:English>video</lang:English> बहुत बहुत अच्छा रहेगा, आप उसको <lang:English>follow</lang:English> ज़रूर करना।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40019",
+      "start" : 2964.280,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 2976.140,
+      "transcriptionData" : {
+        "content" : "बेसन से <lang:English>face</lang:English> को रोज <lang:English>wash</lang:English> कर सकते हैं, <lang:English>yes</lang:English> बिल्कुल कर सकते हैं। [breath] बेसन में आप अपनी <lang:English>skin</lang:English> के <lang:English>according</lang:English> दही या <lang:English>rose water</lang:English> मिलाकर के बिलकुल आप #अ: उसको वो कर सकते हो <lang:English>wash</lang:English> कर सकते हो उससे अपना <lang:English>face</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40020",
+      "start" : 2993.560,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 2996.800,
+      "transcriptionData" : {
+        "content" : "<lang:English>Thank you Vinita. Thank you so much.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40021",
+      "start" : 3000.700,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3013.380,
+      "transcriptionData" : {
+        "content" : "<lang:English>Face weak</lang:English> हो गया है, <lang:English>skin loose</lang:English> हो रही है तो कल का <lang:English>tanaka massage</lang:English> का <lang:English>video</lang:English> देखिएगा। [no-speech] <lang:English>Nisha Joshi</lang:English> मैं नाराज़ नहीं हूँ यार, आपको पता नहीं क्यों लग रहा है आज मैं नाराज़ हूँ, नहीं मैं बिल्कुल नाराज़ नहीं हूँ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40022",
+      "start" : 3015.560,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3025.508,
+      "transcriptionData" : {
+        "content" : "<lang:English>Shaggy skin</lang:English> के लिए शिवानी कल का <lang:English>video</lang:English> देखिएगा <lang:English>tanaka massage</lang:English> का <lang:English>video</lang:English> डालूँगी, वो <lang:English>massage daily</lang:English> आप करोगे, तीन <lang:English>minute</lang:English> का <lang:English>time</lang:English> लगता है उसमें, [breath] आपको बहुत अच्छा <lang:English>result</lang:English> मिलेगा,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40023",
+      "start" : 3025.770,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3037.580,
+      "transcriptionData" : {
+        "content" : "<lang:English>and</lang:English> आपकी जो <lang:English>facial skin</lang:English> है वो <lang:English>tight</lang:English> होती चली जाएगी, मतलब <lang:English>fifty</lang:English> की <lang:English>age</lang:English> में भी <lang:English>fifty-five</lang:English> की <lang:English>age</lang:English> में भी आपकी <lang:English>skin</lang:English> रहेगी <lang:English>twenty-five, thirty</lang:English> की age की, तो उसको ज़रूर ज़रूर <lang:English>follow</lang:English> कीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40024",
+      "start" : 3037.800,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3047.840,
+      "transcriptionData" : {
+        "content" : "<lang:English>Acne scar removal</lang:English> के लिए मैंने <lang:English>cream #उह Himalaya</lang:English> की आती है, <lang:English>anti-acne cream</lang:English> वो आप उसका पूरा <lang:English>kit</lang:English> आता है, वो आप <lang:English>use</lang:English> कर सकते हो, अच्छी रहेगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40025",
+      "start" : 3055.690,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 3064.200,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Laavi Gupta. Love you to dear. [no-speech] Deepti Parihar, [no-speech] hi.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40026",
+      "start" : 3066.440,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3070.860,
+      "transcriptionData" : {
+        "content" : "<lang:English>Pigmentation</lang:English> नहीं जा रही है तो आलू का रस <lang:English>daily</lang:English> लगाओ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40027",
+      "start" : 3078.360,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3083.724,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hair shine</lang:English> के लिए #अ: <lang:English>green tea water</lang:English> से <lang:English>last rinse</lang:English> दो अपने बालों को।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40028",
+      "start" : 3084.064,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3096.420,
+      "transcriptionData" : {
+        "content" : "<lang:English>Natural</lang:English> #अ: आपका ये <lang:English>conditioner</lang:English> का काम करता है, बालों को <lang:English>shampoo</lang:English> कर लिया आपने, <lang:English>last rinse</lang:English> जो आपने करना है वो <lang:English>green tea</lang:English> के <lang:English>water</lang:English> से करना है [breath] या फिर निम्बू और <lang:English>vinegar</lang:English> के <lang:English>water</lang:English> से करना है, इससे भी <lang:English>shine</lang:English> आ जाएगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40029",
+      "start" : 3099.800,
+      "language" : [ "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3100.690,
+      "transcriptionData" : {
+        "content" : "ठीक है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40030",
+      "start" : 3103.410,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3113.360,
+      "transcriptionData" : {
+        "content" : "<lang:English>Irregular periods</lang:English> के <lang:English>solution</lang:English> के बारे में मैंने बहुत <lang:English>videos</lang:English> बनाये हुए हैं। तीन चार <lang:English>videos</lang:English> हैं, आप <lang:English>please channel</lang:English> पर जाकर के देखें, आपको मिल जायेंगे और पूरा उसमे <lang:English>solution</lang:English> मैंने दिया हुआ है।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40031",
+      "start" : 3115.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3129.008,
+      "transcriptionData" : {
+        "content" : "देवेंदर सिंह जी <lang:English>hi</lang:English>. झाईयों के लिए #अ: <lang:English>you can use</lang:English> #अ: या तो <lang:English>Olay</lang:English> आप <lang:English>use</lang:English> कर लो या फिर मेरी जो <lang:English>remedy</lang:English> हैं ना मुल्तानी मिट्टी और उसकी #अ:,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40032",
+      "start" : 3130.530,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3138.080,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह potato</lang:English> वाली या <lang:English>pigmentation facial</lang:English> मैंने <lang:English>share</lang:English> किया हुआ है वो आप कर सकते हो। <lang:English>Pigmentation facial</lang:English> हर <lang:English>Friday</lang:English> कर लो,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40033",
+      "start" : 3138.260,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3146.270,
+      "transcriptionData" : {
+        "content" : "धीरे धीरे आपकी जो <lang:English>pigmentation</lang:English> है वो <lang:English>light</lang:English> होनी शुरू हो जाएगी। झाईयाँ <lang:English>light</lang:English> होने शुरू हो जाएगी। [breath] <lang:English>Search</lang:English> करना <lang:English>Pooja Luthra pigmentation facial</lang:English> आपको मिल जायेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40034",
+      "start" : 3152.828,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3160.350,
+      "transcriptionData" : {
+        "content" : "[laugh] [no-speech] [breath] <lang:English>Dark circles</lang:English> के लिए <lang:English>massages</lang:English> मैंने बताई हुई हैं, <lang:English>under eye creams</lang:English> मैंने बताई हैं, <lang:English>please</lang:English> उनको <lang:English>follow</lang:English> कीजियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40035",
+      "start" : 3165.050,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3179.600,
+      "transcriptionData" : {
+        "content" : "उबटन लगा सकते हो तीन साल चार साल के बच्चों को दही, बेसन और हल्दी का उबटन लगा सकते हो, तो ये आप कर सकते हो। [no-speech] शहद वाला दूध पियो <lang:English>cheeks</lang:English> को मोटा करने के लिए, बहुत अच्छी <lang:English>remedy</lang:English> है ये।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40036",
+      "start" : 3181.690,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3196.080,
+      "transcriptionData" : {
+        "content" : "<lang:English>Summer skin whitening serum</lang:English> का जल्दी मैं बताऊँगी। [no-speech] <lang:English>Pink lips</lang:English> के लिए बहुत सारे <lang:English>videos upload</lang:English> कर चुकी हूँ, तो <lang:English>already</lang:English> बहुत सारी चीज़ें <lang:English>share</lang:English> कर चुकी हूँ <lang:English>pink lips</lang:English> के लिए, <lang:English>video</lang:English> देखिएगा जा कर के।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40037",
+      "start" : 3197.220,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 3198.560,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Sayeeda.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40038",
+      "start" : 3206.320,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3219.510,
+      "transcriptionData" : {
+        "content" : "चलो। <lang:English>I think</lang:English> हाँ [no-speech] अगर आपको <lang:English>gas</lang:English> बहुत ज़्यादा बनती है, <lang:English>farts</lang:English> की बहुत ज़्यादा <lang:English>problem</lang:English> है <lang:English>dear</lang:English> तो आप खाने के आधे घंटे के बाद, [breath] अजवाइन का <lang:English>powder</lang:English> लेना शुरू कर दें,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40039",
+      "start" : 3219.511,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3224.320,
+      "transcriptionData" : {
+        "content" : "उससे आपको फर्क नज़र आएगा कुछ ही दिनों में, आपकी ये <lang:English>problem</lang:English> जो है वो दूर हो जाएगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40040",
+      "start" : 3228.008,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3241.610,
+      "transcriptionData" : {
+        "content" : "ठीक है तो #अ: जिन लोगों ने बाद में <lang:English>join</lang:English> किया है मैं पहले बता चुकी थी, उनको मैं बता दूँ कि <lang:English>now I'm starting two three things on my channel</lang:English> तो #अ~ आपको पता चल जाये <lang:English>if you are my #उह new daily #उह viewers</lang:English>,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40041",
+      "start" : 3241.640,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3251.760,
+      "transcriptionData" : {
+        "content" : "तो एक तो ये है कि <lang:English>super subscriber thing</lang:English> जो मैंने अभी बताया है कि <lang:English>share</lang:English> कर रही हूँ, [breath] <lang:English>every week, I wi~ I will announce a super subscriber</lang:English> जिनको <lang:English>give away</lang:English> दिया जायेगा <lang:English>Sunday</lang:English> को।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40042",
+      "start" : 3251.761,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3266.520,
+      "transcriptionData" : {
+        "content" : "<lang:English>Super subscriber</lang:English> बनने के लिए कुछ छोटी छोटी चीज़ें कहूँगी जो आपको करनी होंगी, <lang:English>comment</lang:English> करना होगा अच्छे से, <lang:English>more than one comments</lang:English> आप कर सकते हो [breath] और <lang:English>like, share of my video and you can send me the screenshots also</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40043",
+      "start" : 3266.660,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 3276.868,
+      "transcriptionData" : {
+        "content" : "<lang:English>You can send me your video #उह on my Facebook or [no-speech] Insta or you can send me email also.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40044",
+      "start" : 3276.928,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3285.568,
+      "transcriptionData" : {
+        "content" : "तो ये सब चीज़ें आप कर सकते हो <lang:English>super subscriber</lang:English> बनने के लिए। तो <lang:English>every week there is a give away,</lang:English> आप जीतना चाहते हो तो [breath] आपके लिए बहुत सारे <lang:English>options</lang:English> रहेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40045",
+      "start" : 3285.788,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3298.160,
+      "transcriptionData" : {
+        "content" : "<lang:English>#उह Second thing I'm starting #उह shout out</lang:English> अगर मुझे आपका [breath] आपका <lang:English>comment</lang:English> या आपकी <lang:English>photo</lang:English> या आपका <lang:English>video</lang:English> अच्छा लगता है, पसंद आता है तो मैं <lang:English>shout out</lang:English> दूँगी अपने <lang:English>channel</lang:English> पर आपका [breath]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40046",
+      "start" : 3298.180,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3308.268,
+      "transcriptionData" : {
+        "content" : "नाम बोलूँगी और आपका <lang:English>comment show</lang:English> करूँगी और आपका जो <lang:English>video</lang:English> आपने भेजा है उसको भी शायद <lang:English>show</lang:English> करूँ अगर मुझे बहुत पसंद आता है। अगर आपकी <lang:English>picture</lang:English> है कोई उसको #अ: <lang:English>show</lang:English> कर सकती हूँ।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40047",
+      "start" : 3308.671,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3317.788,
+      "transcriptionData" : {
+        "content" : "<lang:English>And third thing which I'm #उह starting</lang:English>, वो ये है कि <lang:English>#उह special series for weight loss</lang:English> जिसमें की <lang:English>professionals</lang:English> मैं नहीं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40048",
+      "start" : 3318.211,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3329.272,
+      "transcriptionData" : {
+        "content" : "<lang:English>because I'm not a trained #उह professional for Zumba or weight loss exercises</lang:English>, [breath] तो उसके लिए मैं एक <lang:English>professional</lang:English> #अ: #अ: जो है वो सिखाएंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40049",
+      "start" : 3329.392,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3338.750,
+      "transcriptionData" : {
+        "content" : "तो ये #अ: <lang:English>next to next week</lang:English> से मैं <lang:English>start</lang:English> कर रही हूँ <lang:English>series</lang:English>. #अ: तो ये तीन चीज़ें <lang:English>start</lang:English> कर रही हूँ, जो लोग <lang:English>live</lang:English> हैं, जो लोग पहने पहले नहीं थे अभी जुड़े हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40050",
+      "start" : 3339.000,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3352.788,
+      "transcriptionData" : {
+        "content" : "तो उन लोगों को पता चल जायेगा इसलिए अगर <lang:English>subscribe</lang:English> नहीं किया हुआ है मेरा <lang:English>channel</lang:English> तो अभी <lang:English>subscribe</lang:English> कर लीजिये, <lang:English>so that</lang:English> आपको <lang:English>time to time notifications</lang:English> मिलते रहें [breath] कि क्या क्या <lang:English>changes</lang:English> आने वाले हैं, तो ये छोटे से <lang:English>changes</lang:English> हैं तीन चार जो मैंने आपको बता दिए हैं।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40051",
+      "start" : 3352.968,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3363.700,
+      "transcriptionData" : {
+        "content" : "अगर आप के मन में कोई <lang:English>doubt</lang:English> है, कोई <lang:English>question</lang:English> है तो आप पूछ सकते हो। [no-speech] <lang:English>Yes</lang:English> ये इन सभी जो भी आप <lang:English>querries</lang:English> पूछ रहे हैं, जो भी आप <lang:English>questions</lang:English> पूछ रहे हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40052",
+      "start" : 3364.968,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3379.040,
+      "transcriptionData" : {
+        "content" : "वो सभी के <lang:English>answers</lang:English> आपको मेरे #अ: <lang:English>video</lang:English> में मिल ही जायेंगे, तो एक तो आपने #अ: अभी <lang:English>under eye dark circles</lang:English> का पूछा है तो वो तीन चार #अ: मैंने <lang:English>under eye creams</lang:English> बनाना बताया हुआ है। साथ ही साथ,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40053",
+      "start" : 3379.041,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3383.950,
+      "transcriptionData" : {
+        "content" : "<lang:English>under eye massage</lang:English> कैसे करनी है वो भी बताया हुआ है, तो उनको आप <lang:English>follow</lang:English> कर सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40054",
+      "start" : 3386.630,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3396.860,
+      "transcriptionData" : {
+        "content" : "[breath] <lang:English>Pimple</lang:English> के लिए <lang:English>solution best</lang:English> जो होता है ना वो मुल्तानी मिट्टी और नीम का होता है। [breath] मुल्तानी मिट्टी का <lang:English>powder</lang:English> आप लीजिये, उसमे थोड़ा सा नीम <lang:English>powder</lang:English> मिला लीजिए और थोड़ा सा <lang:English>rose powder</lang:English> मिला लीजिये, [breath]"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40055",
+      "start" : 3396.981,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3410.188,
+      "transcriptionData" : {
+        "content" : "इन तीनो चीज़ो को <lang:English>mix</lang:English> करके अगर आप अपने <lang:English>face</lang:English> पर लगाते हैं, [breath] जब तक आपके <lang:English>pimples</lang:English> नहीं ठीक होते रोजाना लगाना है ये <lang:English>face pack</lang:English> [breath] और बहुत ही जल्दी आपको बहुत अच्छे <lang:English>results</lang:English> मिलेंगे। बेसन <lang:English>suit</lang:English> नहीं करता है तो आप क्या पूछना चाह रहे हैं उसके बारे में?"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40056",
+      "start" : 3412.048,
+      "language" : [ "en_XX" ],
+      "speakerId" : "73361",
+      "end" : 3413.908,
+      "transcriptionData" : {
+        "content" : "<lang:English>Hi Rekha, love you too.</lang:English>"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40057",
+      "start" : 3415.068,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3424.488,
+      "transcriptionData" : {
+        "content" : "<lang:English>Face fat</lang:English> को <lang:English>remove</lang:English> पहले करने के लिए <lang:English>face yoga</lang:English> कीजिये। [breath] <lang:English>Face yoga</lang:English> के दो <lang:English>videos</lang:English> मैंने <lang:English>already upload</lang:English> किये हुए हैं जिसमें <lang:English>face fat</lang:English> आपका <lang:English>re~ #उह remove</lang:English> हो जायेगा,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40058",
+      "start" : 3424.648,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3434.770,
+      "transcriptionData" : {
+        "content" : "और <lang:English>face</lang:English> की जो #अ: <lang:English>features</lang:English> हैं वो श~ मतलब <lang:English>tight</lang:English> आपकी <lang:English>muscles tight</lang:English> हो जाएँगी, <lang:English>features</lang:English> तो नहीं <lang:English>muscles tight</lang:English> होंगी और आपके <lang:English>face</lang:English> की जो <lang:English>look</lang:English> है वो बहुत ही अच्छी हो जाएगी, तो आप <lang:English>follow</lang:English> कर सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40059",
+      "start" : 3440.720,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3449.430,
+      "transcriptionData" : {
+        "content" : "<lang:English>Yes. [no-speech] Sunburn marks</lang:English> हैं <lang:English>face</lang:English> पर तो उस पर आप रोजाना दही लगाइये। दही से वो धीरे धीरे चले जायेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40060",
+      "start" : 3452.820,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3460.640,
+      "transcriptionData" : {
+        "content" : "<lang:English>Summer dre~day cream for dry skin</lang:English>, ये बताऊँगी मैं बहुत जल्दी, <lang:English>night cream, day cream for summer, I'll share the videos very soon</lang:English>."
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40061",
+      "start" : 3464.020,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3470.510,
+      "transcriptionData" : {
+        "content" : "इसी <lang:English>week</lang:English> आपको दो तीन <lang:English>videos</lang:English> मिलेंगे इस <lang:English>topic</lang:English> से <lang:English>related</lang:English>, तो आप <lang:English>follow</lang:English> करना बिलकुल मत भूलि~ भूलियेगा।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40062",
+      "start" : 3473.168,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3486.160,
+      "transcriptionData" : {
+        "content" : "<lang:English>Blemishes</lang:English> के लिए मनदीप जी मुलेठी और चावल का आटा बहुत अच्छा होता है, मैं हमेशा <lang:English>share</lang:English> करती हूँ ये <lang:English>remedy</lang:English> और काफी लोगों को इससे फायदा भी हुआ है। [breath] मुलेठी और चावल का आटा #अ: <lang:English>same amount</lang:English> में आपको लेना है और उसमें मिलाना है आपको आलू का रस,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40063",
+      "start" : 3486.220,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3496.700,
+      "transcriptionData" : {
+        "content" : "और थोड़ा सा <lang:English>rose water</lang:English> या शहद मिला लीजिये <lang:English>and</lang:English> ये आपने <lang:English>face</lang:English> पर लगाना है, जहाँ जहाँ <lang:English>blemishes</lang:English> हैं, <lang:English>daily</lang:English> लगाइये इस <lang:English>pack</lang:English> को बहुत जल्दी आपको अच्छे नतीजे मिलेंगे।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40064",
+      "start" : 3501.292,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3513.310,
+      "transcriptionData" : {
+        "content" : "<lang:English>Weight loss</lang:English> में <lang:English>milk</lang:English> अगर पीना चाहते हैं ना <lang:English>weight loss diet</lang:English> में तो आप <lang:English>toned milk</lang:English> पीजिएगा, बिल्कुल उसकी मलाई वलाई निकली हुई होनी चाहिए [breath] और <lang:English>diet milk</lang:English> या <lang:English>toned milk</lang:English> लीजियेगा, तो आपको आप पी सकते हो।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40065",
+      "start" : 3517.890,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3523.792,
+      "transcriptionData" : {
+        "content" : "तो अभी मैं <lang:English>live end</lang:English> करने वाली हूँ <lang:English>and</lang:English> फिर आपसे <lang:English>next Sunday live</lang:English> आकर के मिलूँगी।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40066",
+      "start" : 3523.951,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3536.544,
+      "transcriptionData" : {
+        "content" : "<lang:English>Daily videos upload</lang:English> करती हूँ मैं अपने <lang:English>channel</lang:English> पर तो <lang:English>please subscribe</lang:English> कीजिये अगर आपको [breath] <lang:English>health</lang:English> और <lang:English>beauty remedies</lang:English> में <lang:English>interest</lang:English> है, आप चाहते हो कि आपका <lang:English>doctor</lang:English> का खर्चा काफी कम हो जाये, [breath] आपके <lang:English>parlour</lang:English> का खर्चा काफी कम हो जाये,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40067",
+      "start" : 3536.644,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3545.968,
+      "transcriptionData" : {
+        "content" : "तो आप <lang:English>video follow</lang:English> कीजियेगा, <lang:English>subscribe</lang:English> कर लीजियेगा मेरे <lang:English>channel</lang:English> को [breath] <lang:English>and daily video upload</lang:English> करती हूँ मैं, दोपहर को <lang:English>sometimes, sometimes night</lang:English> में,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40068",
+      "start" : 3546.300,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3557.324,
+      "transcriptionData" : {
+        "content" : "तो <lang:English>follow</lang:English> कीजिये, आपको बहुत अच्छे नतीजे मिलेंगे, <lang:English>and bell icon subscribe</lang:English> के पास में जो होता है उसको ज़रूर ज़रूर दबाइयेगा, [breath] जिससे आपको <lang:English>notification</lang:English> मिल जाये।"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40069",
+      "start" : 3557.701,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3570.684,
+      "transcriptionData" : {
+        "content" : "तो कल मिलूंगी एक अच्छी सी <lang:English>video</lang:English> के <lang:English>through</lang:English> आपसे, <lang:English>tanaka massage share</lang:English> कर रही हूँ, जो [breath] आपकी <lang:English>skin</lang:English> को बहुत ही <lang:English>tight</lang:English> कर देगी और अगर आप <lang:English>twenty-five to forty-five fifty years</lang:English> के <lang:English>age</lang:English> के हैं,"
+      }
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "segmentId" : "40070",
+      "start" : 3570.864,
+      "language" : [ "en_XX", "hi_IN" ],
+      "speakerId" : "73361",
+      "end" : 3581.030,
+      "transcriptionData" : {
+        "content" : "<lang:English>then it will be very very beneficial for you, so please follow that video</lang:English>, तो कल मिलती हूँ उस <lang:English>video</lang:English> के साथ, तब तक के लिए <lang:English>take good care of yourself. Buh- bye</lang:English>."
+      }
+    } ]
+  }
+}

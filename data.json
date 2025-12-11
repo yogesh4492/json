@@ -1,0 +1,184 @@
+{
+  "value" : {
+    "domains" : [ "Call-center" ],
+    "topics" : [ "Banking" ],
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "Hello Yuna. I'm Melina. I need some help with setting up my account, resetting my password, and resolving some account-related issues. Can you guide me through this?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100002",
+      "start" : 13.120,
+      "end" : 26.080
+    }, {
+      "transcriptionData" : {
+        "content" : "My username is Line Way one, two, three."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100005",
+      "start" : 53.485,
+      "end" : 57.957
+    }, {
+      "transcriptionData" : {
+        "content" : "Firstly, I'm having a trouble setting up my account and tried following the instructions online, but I seem to be stuck a certain step first."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100009",
+      "start" : 82.274,
+      "end" : 92.855
+    }, {
+      "transcriptionData" : {
+        "content" : "I'm having trouble verifying my email address during the registration process. I'm not receiving the verification email in my email."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Negative",
+      "transcriptionSegment" : "Negative",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100012",
+      "start" : 119.062,
+      "end" : 128.528
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, please I appreciate your assistance in verifying my email address."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Positive",
+      "transcriptionSegment" : "Positive",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100016",
+      "start" : 156.113,
+      "end" : 160.777
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you for your guidance. Yuna, I will give it a try. And let you know If I if encounter any issue."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Positive",
+      "transcriptionSegment" : "Positive",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100020",
+      "start" : 201.125,
+      "end" : 207.706
+    }, {
+      "transcriptionData" : {
+        "content" : "Actually, Yes. I forgot my account password and I need to reset it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100023",
+      "start" : 230.026,
+      "end" : 235.347
+    }, {
+      "transcriptionData" : {
+        "content" : "That is straightforward. I follow those steps to resend my password. Lastly, I have a few account related issues regarding payment information and accessing."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100028",
+      "start" : 274.226,
+      "end" : 286.580
+    }, {
+      "transcriptionData" : {
+        "content" : "Certain features."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Neutral",
+      "transcriptionSegment" : "Neutral",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100029",
+      "start" : 287.586,
+      "end" : 288.757
+    }, {
+      "transcriptionData" : {
+        "content" : "I appreciate that I'll be reaching out to the support team for assistance with this issue."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Positive",
+      "transcriptionSegment" : "Positive",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100032",
+      "start" : 308.062,
+      "end" : 313.900
+    }, {
+      "transcriptionData" : {
+        "content" : "No, that's all for now. You know thank you for your help and guidance. It's been very informative."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "audioSegment" : "Positive",
+      "transcriptionSegment" : "Positive",
+      "language" : [ "en_US_JA" ],
+      "speakerId" : "S00138",
+      "segmentId" : "100035",
+      "start" : 340.141,
+      "end" : 346.115
+    } ],
+    "speakers" : [ {
+      "speakerId" : "S00138",
+      "gender" : "Female",
+      "speakerNativity" : "us_JA",
+      "languages" : [ "en_US_JA" ]
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "43731"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "en_US_JA" ]
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "25.0"
+  }
+}
