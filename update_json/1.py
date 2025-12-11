@@ -7,7 +7,7 @@ from pathlib import Path
 
 app=typer.Typer()
 @app.command("Folder")
-def main():
+def main(Input_folder:Path=typer.Argument(...,help="")):
     pass
 @app.command("Single File")
 def main():
