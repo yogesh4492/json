@@ -1,5 +1,6 @@
 import csv
 import typer
+import os
 from pathlib import Path
 # from helper import read_json
 import  json
@@ -14,6 +15,81 @@ def read_json(filename, encoding='utf8'):
     """
     with open(filename, encoding=encoding) as fp:
         return json.load(fp)
+
+def Dump_csv(output_file,fields,data):
+    with open(output_file, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writeheader()
+            #code for duration if you want in csv 
+            
+            # for i in data:
+            #     ro={}
+            #     ro['Duration']=i.get('end')-i.get('start')
+            #     ro['Duration']=f"{ro['Duration']:.2f}"
+            #     i.update(ro)
+                
+            writer.writerows(data)
+
+def flatten_json(data, parent_key="", out=None):
+    if out is None:
+        out = {}
+
+    if isinstance(data, dict):
+        for key, value in data.items():
+            new_key = f"{parent_key}.{key}" if parent_key else key
+            flatten_json(value, new_key, out)
+
+    elif isinstance(data, list):
+        for index, item in enumerate(data):
+            new_key = f"{parent_key}[{index}]"
+            flatten_json(item, new_key, out)
+
+    else:
+        out[parent_key] = data
+
+    return out
+
+@app.command("Folder")
+def main(
+    folder: Path = typer.Argument(...,help="Input folder path that contain  JSON file"),
+    fields: str = typer.Argument(...,help="Keys to extract, comma-separated"),
+    output_file: Path = typer.Option("output.csv", "--output", "-o", help="Output CSV")
+):
+    files=[]
+    for i in os.listdir(folder):
+        files.append(i)
+    
+    rows = [] 
+    fields = fields.split(",")
+    for file in files:
+
+        data = read_json(os.path.join(folder,file))
+
+        
+        flat = flatten_json(data)
+
+        # Collect values separately for each field
+        extracted = {field: [] for field in fields}
+
+        for key, value in flat.items():
+            for field in fields:
+                if key.endswith(f".{field}") or key == field:
+                    extracted[field].append(value)
+
+        # Prepare rows (maximum rows = max items among fields)
+        max_rows = max(len(v) for v in extracted.values())
+
+        for i in range(max_rows):
+            row = {}
+            for field in fields:
+                row[field] = extracted[field][i] if i < len(extracted[field]) else ""
+            rows.append(row)
+
+    # Write CSV
+    Dump_csv(output_file,fields,rows)
+    
+    print(f"CSV created with {len(rows)} rows → {output_file}")
+
 
 @app.command("Single_File")
 def main(
@@ -48,38 +124,6 @@ def main(
     Dump_csv(output_file,fields,rows)
     
     print(f"CSV created with {len(rows)} rows → {output_file}")
-def Dump_csv(output_file,fields,data):
-    with open(output_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fields)
-            writer.writeheader()
-            #code for duration if you want in csv 
-            
-            # for i in data:
-            #     ro={}
-            #     ro['Duration']=i.get('end')-i.get('start')
-            #     ro['Duration']=f"{ro['Duration']:.2f}"
-            #     i.update(ro)
-                
-            writer.writerows(data)
-
-def flatten_json(data, parent_key="", out=None):
-    if out is None:
-        out = {}
-
-    if isinstance(data, dict):
-        for key, value in data.items():
-            new_key = f"{parent_key}.{key}" if parent_key else key
-            flatten_json(value, new_key, out)
-
-    elif isinstance(data, list):
-        for index, item in enumerate(data):
-            new_key = f"{parent_key}[{index}]"
-            flatten_json(item, new_key, out)
-
-    else:
-        out[parent_key] = data
-
-    return out
 
 
 if __name__ == "__main__":
